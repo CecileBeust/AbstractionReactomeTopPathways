@@ -1,0 +1,7 @@
+source,interaction,target,weight
+R-HSA-9033500,abstraction:IsAComponentOf,R-HSA-9033241,0.9531047049968712
+R-HSA-9603798,abstraction:IsAComponentOf,R-HSA-9609507,0.0
+R-HSA-9609523,abstraction:IsAComponentOf,R-HSA-9609507,0.0
+R-HSA-9033241,abstraction:IsAComponentOf,R-HSA-9609507,0.0
+R-HSA-1268020,abstraction:IsAComponentOf,R-HSA-9609507,0.0
+R-HSA-9033241,abstraction:NextStepPathway,R-HSA-9033500,0.9531047049968712
