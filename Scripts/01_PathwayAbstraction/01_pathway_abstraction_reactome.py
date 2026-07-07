@@ -7,9 +7,9 @@ import glob
 from utility import *
 
 current_directory = os.getcwd()
-BioPAX_Ontology_file_path = os.path.join(current_directory, 'Data/BioPAX/BioPAXOntology/biopax-level3.owl')
-ReactomeBioPAX_file_path = os.path.join(current_directory, 'Data/BioPAX/ReactomeTopPathways')
-results_dir = os.path.join(current_directory, 'Results/PathwayAbstraction')
+BioPAX_Ontology_file_path = os.path.join(current_directory, '../../Data/BioPAX/BioPAXOntology/biopax-level3.owl')
+ReactomeBioPAX_file_path = os.path.join(current_directory, '../../Data/BioPAX/ReactomeTopPathways')
+results_dir = os.path.join(current_directory, '../../Results/PathwayAbstraction')
 
 os.makedirs(results_dir, exist_ok=True)
 
@@ -93,10 +93,10 @@ for owl_file in sorted(filelist):
         print(f"Results saved in {output_filename}")
     except Exception as e:
         print(f"Error in IsAComponentOf SPARQL query: {e}")
-    iscomponentof = pd.read_csv(f"Results/PathwayAbstraction/{counter:02d}_IsAComponentOf.csv", sep=",", header=0)
+    iscomponentof = pd.read_csv(f"../../Results/PathwayAbstraction/{counter:02d}_IsAComponentOf.csv", sep=",", header=0)
     new_col = ["abstraction:IsAComponentOf"]*len(iscomponentof)
     iscomponentof.insert(loc=1, column="interaction", value=new_col)
-    iscomponentof.to_csv(f"Results/PathwayAbstraction/{counter:02d}_IsAComponentOf.csv", sep=",", header=True, index=False)
+    iscomponentof.to_csv(f"../../Results/PathwayAbstraction/{counter:02d}_IsAComponentOf.csv", sep=",", header=True, index=False)
 
     sparql.setQuery(prefixes + query_next_step_pathway)
     sparql.setReturnFormat(CSV)
@@ -109,10 +109,10 @@ for owl_file in sorted(filelist):
     except Exception as e:
         print(f"Error in NextStepPathway query: {e}")
 
-    nextsteppathway = pd.read_csv(f"Results/PathwayAbstraction/{counter:02d}_NextStepPathway.csv", sep=",", header=0)
+    nextsteppathway = pd.read_csv(f"../../Results/PathwayAbstraction/{counter:02d}_NextStepPathway.csv", sep=",", header=0)
     new_col = ["abstraction:NextStepPathway"]*len(nextsteppathway)
     nextsteppathway.insert(loc=1, column="interaction", value=new_col)
-    nextsteppathway.to_csv(f"Results/PathwayAbstraction/{counter:02d}_NextStepPathway.csv", sep=",", header=True, index=False)
+    nextsteppathway.to_csv(f"../../Results/PathwayAbstraction/{counter:02d}_NextStepPathway.csv", sep=",", header=True, index=False)
 
     try:
         q1 = pd.read_csv(os.path.join(results_dir, f"{counter:02d}_IsAComponentOf.csv"), header=None)

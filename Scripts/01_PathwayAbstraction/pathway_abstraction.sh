@@ -1,17 +1,24 @@
-#!/bin/sh
+#!/bin/bash
+set -e  # Arrête le script si une commande échoue
 
 # generate pathway-centered abstraction on Reactome top pathways
-python 01_pathway_abstraction_reactome.py
+echo "[1/3] Running pathway abstraction..."
+python3 01_pathway_abstraction_reactome.py
 
 # get uniprot ids per pathway
-python 02_uniprot_per_pathways.py
+echo "[2/3] Getting UniProt IDs per pathway..."
+python3 02_uniprot_per_pathways.py
 
 # weight pathway-centered abstraction
-python 03_weight_pathway_abstraction.py
+echo "[3/3] Weighting pathway abstraction..."
+python3 03_weight_pathway_abstraction.py
 
-# clean intermediate files
-rm ../../Results/PathwayAbstraction/*.tsv
-rm ../../Results/PathwayAbstraction/*IsAComponentOf.csv
-rm ../../Results/PathwayAbstraction/*NextStepPathway.csv
-rm ../../Results/PathwayAbstraction/*IsAComponentOf_ResnikER.csv
-rm ../../Results/PathwayAbstraction/*NextStepPathway_ERcontent.csv
+# clean intermediate files (ONLY AFTER ALL SCRIPTS HAVE RUN)
+echo "Cleaning intermediate files..."
+rm -f ../../Results/PathwayAbstraction/*.tsv
+rm -f ../../Results/PathwayAbstraction/*IsAComponentOf.csv
+rm -f ../../Results/PathwayAbstraction/*NextStepPathway.csv
+rm -f ../../Results/PathwayAbstraction/*IsAComponentOf_ResnikER.csv
+rm -f ../../Results/PathwayAbstraction/*NextStepPathway_ERcontent.csv
+
+echo "Done."

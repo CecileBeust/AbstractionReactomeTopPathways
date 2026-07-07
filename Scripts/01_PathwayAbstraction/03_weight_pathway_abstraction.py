@@ -8,9 +8,9 @@ from utility import *
 from xml.etree import ElementTree as ET  # Pour parser le XML
 
 current_directory = os.getcwd()
-results_dir = os.path.join(current_directory, 'Results/PathwayAbstraction')
-BioPAX_Ontology_file_path = os.path.join(current_directory, 'Data/BioPAX/BioPAXOntology/biopax-level3.owl')
-ReactomeBioPAX_file_path = os.path.join(current_directory, 'Data/BioPAX/ReactomeTopPathways')
+results_dir = os.path.join(current_directory, '../../Results/PathwayAbstraction')
+BioPAX_Ontology_file_path = os.path.join(current_directory, '../../Data/BioPAX/BioPAXOntology/biopax-level3.owl')
+ReactomeBioPAX_file_path = os.path.join(current_directory, '../../Data/BioPAX/ReactomeTopPathways')
 
 prefixes = """
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -67,13 +67,13 @@ dico_top_pathway_ids = {
 }
 
 for counter in range(29,30):
-    biopax = f"Data/BioPAX/ReactomeTopPathways/{counter:02d}_{dico_top_pathway_ids[str(counter)]}.xml"
-    isacomponentof = pd.read_csv(f"Results/PathwayAbstraction/{counter:02d}_IsAComponentOf.csv", sep=',', header=0)
-    nextsteppathway = pd.read_csv(f"Results/PathwayAbstraction/{counter:02d}_NextStepPathway.csv", sep=',', header=0)
+    biopax = f"../../Data/BioPAX/ReactomeTopPathways/{counter:02d}_{dico_top_pathway_ids[str(counter)]}.xml"
+    isacomponentof = pd.read_csv(f"../../Results/PathwayAbstraction/{counter:02d}_IsAComponentOf.csv", sep=',', header=0)
+    nextsteppathway = pd.read_csv(f"../../Results/PathwayAbstraction/{counter:02d}_NextStepPathway.csv", sep=',', header=0)
     G = create_networkx_graph(isacomponentof)
     root = [node for node in G.nodes() if G.out_degree(node) == 0]
 
-    up_per_pathway = pd.read_csv(f"Results/UtilityFiles/{counter:02d}_UpPerPathway.csv", sep=",", header=0)
+    up_per_pathway = pd.read_csv(f"../../Results/UtilityFiles/{counter:02d}_UpPerPathway.csv", sep=",", header=0)
     print(up_per_pathway.head())
 
     dico_er_per_pathway = dict()
@@ -124,7 +124,7 @@ for counter in range(29,30):
         weighted_graph.at[counter_rows, 'weight'] = weight
         counter_rows += 1
 
-    weighted_graph.to_csv(f"Results/PathwayAbstraction/{counter:02d}_IsAComponentOf_ResnikER.csv", sep=",", header=True, index=False)
+    weighted_graph.to_csv(f"../../Results/PathwayAbstraction/{counter:02d}_IsAComponentOf_ResnikER.csv", sep=",", header=True, index=False)
 
     process.kill()
     time.sleep(30)
@@ -153,14 +153,14 @@ for counter in range(29,30):
             weight = dico_next_step_er[key]
             weighted_graph.at[counter_rows, 'weight'] = weight
         counter_rows += 1
-    weighted_graph.to_csv(f"Results/PathwayAbstraction/{counter:02d}_NextStepPathway_ERcontent.csv", sep=",", header=True, index=False)
+    weighted_graph.to_csv(f"../../Results/PathwayAbstraction/{counter:02d}_NextStepPathway_ERcontent.csv", sep=",", header=True, index=False)
 
     # CONCATENATE GRAPHS
-    weighted_is_a_component_of = pd.read_csv(f"Results/PathwayAbstraction/{counter:02d}_IsAComponentOf_ResnikER.csv", sep=",", header=0)
+    weighted_is_a_component_of = pd.read_csv(f"../../Results/PathwayAbstraction/{counter:02d}_IsAComponentOf_ResnikER.csv", sep=",", header=0)
     print(weighted_is_a_component_of.head())
 
-    weighted_next_step_pathway = pd.read_csv(f"Results/PathwayAbstraction/{counter:02d}_NextStepPathway_ERcontent.csv", sep=",", header=0)
+    weighted_next_step_pathway = pd.read_csv(f"../../Results/PathwayAbstraction/{counter:02d}_NextStepPathway_ERcontent.csv", sep=",", header=0)
     print(weighted_next_step_pathway.head())
 
     global_abstraction = pd.concat([weighted_is_a_component_of, weighted_next_step_pathway], axis=0)
-    global_abstraction.to_csv(f"Results/PathwayAbstraction/{counter:02d}_WeightedPathwayAbstraction.csv", sep=",", index=False)
+    global_abstraction.to_csv(f"../../Results/PathwayAbstraction/{counter:02d}_WeightedPathwayAbstraction.csv", sep=",", index=False)

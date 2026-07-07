@@ -7,9 +7,9 @@ import glob
 from utility import *
 
 current_directory = os.getcwd()
-BioPAX_Ontology_file_path = os.path.join(current_directory, 'Data/BioPAX/BioPAXOntology/biopax-level3.owl')
-ReactomeBioPAX_file_path = os.path.join(current_directory, 'Data/BioPAX/ReactomeTopPathways')
-output_dir = os.path.join(current_directory, 'Results/UtilityFiles')
+BioPAX_Ontology_file_path = os.path.join(current_directory, '../../Data/BioPAX/BioPAXOntology/biopax-level3.owl')
+ReactomeBioPAX_file_path = os.path.join(current_directory, '../../Data/BioPAX/ReactomeTopPathways')
+output_dir = os.path.join(current_directory, '../../Results/UtilityFiles')
 
 prefixes = """
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -18,54 +18,109 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX bp3: <http://www.biopax.org/release/biopax-level3.owl#>
 """
 
+# query_up_per_pathway = """ 
+# SELECT DISTINCT ?pathwayID ?entityID
+# WHERE {
+#     VALUES ?db { "UniProt" "UniProt Isoform" }
+#     ?pathway rdf:type bp3:Pathway .
+#     ?pathway (bp3:pathwayComponent)*|(bp3:pathwayOrder/bp3:stepProcess)* ?interaction .
+#     ?interaction rdf:type/(rdfs:subClassOf*) bp3:Interaction .
+#     ?pathway bp3:xref ?pathwayXref .
+#     ?pathwayXref rdf:type bp3:UnificationXref .
+#     ?pathwayXref bp3:db "Reactome" .
+#     ?pathwayXref bp3:id ?pathwayID .
+
+#     VALUES ?relation { bp3:left bp3:right bp3:participant bp3:controller }
+#     ?interaction ?relation ?entity .
+
+#     ?entity (bp3:component*)|(bp3:memberPhysicalEntity*)|(bp3:component*/bp3:memberPhysicalEntity*)|(bp3:memberPhysicalEntity*/bp3:component*)|(bp3:component*/bp3:memberPhysicalEntity*/bp3:component*) ?entityCompo .
+#     ?entityCompo rdf:type/(rdfs:subClassOf*) bp3:PhysicalEntity .
+#     ?entityCompo bp3:entityReference ?entityRef .
+#     ?entityRef bp3:xref ?entityRefXref .
+#     ?entityRefXref rdf:type bp3:UnificationXref .
+#     ?entityRefXref bp3:db ?db .
+#     ?entityRefXref bp3:id ?entityID .
+# } 
+# """
+
+# query_nb_up_per_pathway = """ 
+# SELECT ?pathwayID (COUNT(DISTINCT ?entityID) AS ?nbID)
+# WHERE {
+#     VALUES ?db { "UniProt" "UniProt Isoform" }
+#     ?pathway rdf:type bp3:Pathway .
+#     ?pathway bp3:displayName ?pathwayName .
+#     ?pathway (bp3:pathwayComponent)*|(bp3:pathwayOrder/bp3:stepProcess)* ?interaction .
+#     ?interaction rdf:type/(rdfs:subClassOf*) bp3:Interaction .
+#     ?pathway bp3:xref ?pathwayXref .
+#     ?pathwayXref rdf:type bp3:UnificationXref .
+#     ?pathwayXref bp3:db "Reactome" .
+#     ?pathwayXref bp3:id ?pathwayID .
+
+#     VALUES ?relation { bp3:left bp3:right bp3:participant bp3:controller }
+#     ?interaction ?relation ?entity .
+
+#     ?entity (bp3:component*)|(bp3:memberPhysicalEntity*)|(bp3:component*/bp3:memberPhysicalEntity*)|(bp3:memberPhysicalEntity*/bp3:component*)|(bp3:component*/bp3:memberPhysicalEntity*/bp3:component*) ?entityCompo .
+#     ?entityCompo rdf:type/(rdfs:subClassOf*) bp3:PhysicalEntity .
+#     ?entityCompo bp3:entityReference ?entityRef .
+#     ?entityRef bp3:xref ?entityRefXref .
+#     ?entityRefXref rdf:type bp3:UnificationXref .
+#     ?entityRefXref bp3:db ?db .
+#     ?entityRefXref bp3:id ?entityID .
+# }
+# GROUP BY ?pathwayID
+# """
+
 query_up_per_pathway = """ 
 SELECT DISTINCT ?pathwayID ?entityID
 WHERE {
     VALUES ?db { "UniProt" "UniProt Isoform" }
+
     ?pathway rdf:type bp3:Pathway .
-    ?pathway (bp3:pathwayComponent)*|(bp3:pathwayOrder/bp3:stepProcess)* ?interaction .
+    ?pathway (bp3:pathwayComponent | bp3:pathwayOrder/bp3:stepProcess)* ?interaction .
     ?interaction rdf:type/(rdfs:subClassOf*) bp3:Interaction .
     ?pathway bp3:xref ?pathwayXref .
-    ?pathwayXref rdf:type bp3:UnificationXref .
-    ?pathwayXref bp3:db "Reactome" .
-    ?pathwayXref bp3:id ?pathwayID .
+    ?pathwayXref rdf:type bp3:UnificationXref ;
+                    bp3:db "Reactome" ;
+                    bp3:id ?pathwayID .
 
     VALUES ?relation { bp3:left bp3:right bp3:participant bp3:controller }
     ?interaction ?relation ?entity .
+    
+    ?entity (bp3:component | bp3:memberPhysicalEntity)* ?entityCompo .
 
-    ?entity (bp3:component*)|(bp3:memberPhysicalEntity*)|(bp3:component*/bp3:memberPhysicalEntity*)|(bp3:memberPhysicalEntity*/bp3:component*)|(bp3:component*/bp3:memberPhysicalEntity*/bp3:component*) ?entityCompo .
     ?entityCompo rdf:type/(rdfs:subClassOf*) bp3:PhysicalEntity .
     ?entityCompo bp3:entityReference ?entityRef .
     ?entityRef bp3:xref ?entityRefXref .
-    ?entityRefXref rdf:type bp3:UnificationXref .
-    ?entityRefXref bp3:db ?db .
-    ?entityRefXref bp3:id ?entityID .
-} 
+    ?entityRefXref rdf:type bp3:UnificationXref ;
+                    bp3:db ?db ;
+                    bp3:id ?entityID .
+}
 """
 
 query_nb_up_per_pathway = """ 
 SELECT ?pathwayID (COUNT(DISTINCT ?entityID) AS ?nbID)
 WHERE {
     VALUES ?db { "UniProt" "UniProt Isoform" }
+
     ?pathway rdf:type bp3:Pathway .
-    ?pathway bp3:displayName ?pathwayName .
-    ?pathway (bp3:pathwayComponent)*|(bp3:pathwayOrder/bp3:stepProcess)* ?interaction .
+    ?pathway (bp3:pathwayComponent | bp3:pathwayOrder/bp3:stepProcess)* ?interaction .
     ?interaction rdf:type/(rdfs:subClassOf*) bp3:Interaction .
     ?pathway bp3:xref ?pathwayXref .
-    ?pathwayXref rdf:type bp3:UnificationXref .
-    ?pathwayXref bp3:db "Reactome" .
-    ?pathwayXref bp3:id ?pathwayID .
+    ?pathwayXref rdf:type bp3:UnificationXref ;
+                    bp3:db "Reactome" ;
+                    bp3:id ?pathwayID .
 
     VALUES ?relation { bp3:left bp3:right bp3:participant bp3:controller }
     ?interaction ?relation ?entity .
+    
+    ?entity (bp3:component | bp3:memberPhysicalEntity)* ?entityCompo .
 
-    ?entity (bp3:component*)|(bp3:memberPhysicalEntity*)|(bp3:component*/bp3:memberPhysicalEntity*)|(bp3:memberPhysicalEntity*/bp3:component*)|(bp3:component*/bp3:memberPhysicalEntity*/bp3:component*) ?entityCompo .
     ?entityCompo rdf:type/(rdfs:subClassOf*) bp3:PhysicalEntity .
     ?entityCompo bp3:entityReference ?entityRef .
     ?entityRef bp3:xref ?entityRefXref .
-    ?entityRefXref rdf:type bp3:UnificationXref .
-    ?entityRefXref bp3:db ?db .
-    ?entityRefXref bp3:id ?entityID .
+    ?entityRefXref rdf:type bp3:UnificationXref ;
+                    bp3:db ?db ;
+                    bp3:id ?entityID .
 }
 GROUP BY ?pathwayID
 """
