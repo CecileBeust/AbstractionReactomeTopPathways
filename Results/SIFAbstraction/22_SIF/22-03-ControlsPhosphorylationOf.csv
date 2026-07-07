@@ -1,0 +1,14 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/1852241#ProteinReference3,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1
+http://www.reactome.org/biopax/96/1852241#ProteinReference48,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference46
+http://www.reactome.org/biopax/96/1852241#ProteinReference5,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1
+http://www.reactome.org/biopax/96/1852241#ProteinReference2,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1
+http://www.reactome.org/biopax/96/1852241#ProteinReference9,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1
+http://www.reactome.org/biopax/96/1852241#ProteinReference62,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference61
+http://www.reactome.org/biopax/96/1852241#ProteinReference62,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference60
+http://www.reactome.org/biopax/96/1852241#ProteinReference10,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1
+http://www.reactome.org/biopax/96/1852241#ProteinReference47,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference46
+http://www.reactome.org/biopax/96/1852241#ProteinReference4,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1
+http://www.reactome.org/biopax/96/1852241#ProteinReference7,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1
+http://www.reactome.org/biopax/96/1852241#ProteinReference6,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1
+http://www.reactome.org/biopax/96/1852241#ProteinReference8,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/1852241#ProteinReference1

@@ -1,0 +1,13 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference19,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference17
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference18,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference17
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference14,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference16
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference18,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference19
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference16,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference15
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference14,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference15
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference17,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference18
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference15,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference14
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference15,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference16
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference17,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference19
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference16,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference14
+http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference19,abstraction:ReactsWith,http://www.reactome.org/biopax/96/5357801#SmallMoleculeReference18

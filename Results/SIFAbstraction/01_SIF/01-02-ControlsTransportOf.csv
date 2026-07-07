@@ -1,0 +1,9 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/9612973#ProteinReference75,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/9612973#ProteinReference70
+http://www.reactome.org/biopax/96/9612973#ProteinReference72,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/9612973#ProteinReference70
+http://www.reactome.org/biopax/96/9612973#ProteinReference74,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/9612973#ProteinReference70
+http://www.reactome.org/biopax/96/9612973#ProteinReference76,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/9612973#ProteinReference70
+http://www.reactome.org/biopax/96/9612973#ProteinReference73,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/9612973#ProteinReference70
+http://www.reactome.org/biopax/96/9612973#ProteinReference71,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/9612973#ProteinReference70
+http://www.reactome.org/biopax/96/9612973#ProteinReference125,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/9612973#ProteinReference124
+http://www.reactome.org/biopax/96/9612973#ProteinReference77,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/9612973#ProteinReference70

@@ -1,0 +1,13 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/8963743#ProteinReference25,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference27
+http://www.reactome.org/biopax/96/8963743#ProteinReference26,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference25
+http://www.reactome.org/biopax/96/8963743#ProteinReference26,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference22
+http://www.reactome.org/biopax/96/8963743#ProteinReference26,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference44
+http://www.reactome.org/biopax/96/8963743#ProteinReference24,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference43
+http://www.reactome.org/biopax/96/8963743#ProteinReference24,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference3
+http://www.reactome.org/biopax/96/8963743#ProteinReference28,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference22
+http://www.reactome.org/biopax/96/8963743#ProteinReference27,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference22
+http://www.reactome.org/biopax/96/8963743#ProteinReference28,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference25
+http://www.reactome.org/biopax/96/8963743#ProteinReference27,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference25
+http://www.reactome.org/biopax/96/8963743#ProteinReference27,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference44
+http://www.reactome.org/biopax/96/8963743#ProteinReference28,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference27

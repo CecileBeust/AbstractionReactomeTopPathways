@@ -1,0 +1,4 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/8953854#ProteinReference421,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/8953854#ProteinReference422
+http://www.reactome.org/biopax/96/8953854#ProteinReference683,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/8953854#ProteinReference684
+http://www.reactome.org/biopax/96/8953854#ProteinReference683,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/8953854#ProteinReference685

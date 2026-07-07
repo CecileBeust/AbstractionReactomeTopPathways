@@ -1,0 +1,460 @@
+entityRef,entityRefName,entityID,entityRefType
+http://www.reactome.org/biopax/96/9909396#ProteinReference43,KIAA1737,Q9C0C6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference43,UniProt:Q9C0C6 CIPC,Q9C0C6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference43,CIPC,Q9C0C6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference30,KIAA0181,Q14686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference30,RAP250,Q14686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference30,AIB3,Q14686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference30,TRBP,Q14686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference30,UniProt:Q14686 NCOA6,Q14686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference30,NCOA6,Q14686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference93,UniProt:P62333 PSMC6,P62333,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference93,SUG2,P62333,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference93,PSMC6,P62333,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference29,TIF2,Q15596,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference29,NCOA2,Q15596,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference29,UniProt:Q15596 NCOA2,Q15596,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference29,BHLHE75,Q15596,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference29,SRC2,Q15596,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference71,UniProt:P62979 RPS27A,P62979,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference71,UBCEP1,P62979,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference71,RPS27A,P62979,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference71,UBA80,P62979,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference25,CREBBP,Q92793,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference25,UniProt:Q92793 CREBBP,Q92793,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference25,CBP,Q92793,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference22,TBLR1,Q9BZK7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference22,IRA1,Q9BZK7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference22,UniProt:Q9BZK7 TBL1XR1,Q9BZK7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference22,TBL1XR1,Q9BZK7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference65,CSNK2A2,P19784,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference65,UniProt:P19784 CSNK2A2,P19784,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference65,CK2A2,P19784,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference101,PSMD7,P51665,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference101,MOV34L,P51665,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference101,UniProt:P51665 PSMD7,P51665,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference61,CSNK1E,P49674,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference61,UniProt:P49674 CSNK1E,P49674,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference13,UniProt:Q92753 RORB,Q92753,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference13,RORB,Q92753,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference13,RZRB,Q92753,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference13,NR1F2,Q92753,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference69,UniProt:Q9UKB1 FBXW11,Q9UKB1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference69,BTRCP2,Q9UKB1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference69,FBXW1B,Q9UKB1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference69,KIAA0696,Q9UKB1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference69,FBXW11,Q9UKB1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference69,FBW1B,Q9UKB1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference110,CPT1A,P50416,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference110,CPT1,P50416,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference110,UniProt:P50416 CPT1A,P50416,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference48,PER2,O15055,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference48,UniProt:O15055 PER2,O15055,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference48,KIAA0347,O15055,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference103,PSMD13,Q9UNM6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference103,UniProt:Q9UNM6 PSMD13,Q9UNM6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference44,UniProt:Q03060-6 CREM,Q03060-6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference44,CREM,Q03060-6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference1,UniProt:Q9UBK2 PPARGC1A,Q9UBK2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference1,PGC1,Q9UBK2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference1,PPARGC1,Q9UBK2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference1,LEM6,Q9UBK2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference1,PGC1A,Q9UBK2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference1,PPARGC1A,Q9UBK2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference106,DSS1,P60896,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference106,UniProt:P60896 SEM1,P60896,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference106,C7orf76,P60896,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference106,SEM1,P60896,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference106,SHFDG1,P60896,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference106,SHFM1,P60896,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference51,UniProt:Q10586 DBP,Q10586,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference51,DBP,Q10586,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,HTRX,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,HRX,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,ALL1,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,CXXC7,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,KMT2A,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,UniProt:Q03164 KMT2A,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,MLL,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,MLL1,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference39,TRX1,Q03164,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference45,SHARP2,O14503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference45,STRA13,O14503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference45,DEC1,O14503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference45,BHLHE40,O14503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference45,UniProt:O14503 BHLHE40,O14503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference45,BHLHB2,O14503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference91,PSMC5,P62195,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference91,SUG1,P62195,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference91,UniProt:P62195 PSMC5,P62195,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference70,RBX1,P62877,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference70,ROC1,P62877,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference70,UniProt:P62877 RBX1,P62877,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference70,RNF75,P62877,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference83,PSMB4,P28070,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference83,PROS26,P28070,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference83,UniProt:P28070 PSMB4,P28070,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference74,UniProt:P0CG48 UBC,P0CG48,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference74,UBC,P0CG48,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference78,PSC2,P25786,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference78,PSMA1,P25786,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference78,NU,P25786,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference78,HC2,P25786,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference78,UniProt:P25786 PSMA1,P25786,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference78,PROS30,P25786,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference99,PSMD11,O00231,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference99,UniProt:O00231 PSMD11,O00231,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference52,UniProt:P01185 AVP,P01185,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference52,VP,P01185,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference52,AVP,P01185,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference52,ARVP,P01185,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference7,MEF2D,Q14814,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference7,UniProt:Q14814 MEF2D,Q14814,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference92,ADRM1,Q16186,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference92,GP110,Q16186,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference92,UniProt:Q16186 ADRM1,Q16186,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference47,SNF1LK,P57059,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference47,UniProt:P57059 SIK1,P57059,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference47,SIK,P57059,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference47,SIK1,P57059,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference96,PSMC2,P35998,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference96,MSS1,P35998,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference96,UniProt:P35998 PSMC2,P35998,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference2,CREB1,P16220-1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference2,UniProt:P16220-1 CREB1,P16220-1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference15,EP300,Q09472,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference15,UniProt:Q09472 EP300,Q09472,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference15,P300,Q09472,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference42,KIAA0482,O15534,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference42,PER,O15534,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference42,UniProt:O15534 PER1,O15534,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference42,RIGUI,O15534,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference42,PER1,O15534,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference10,UniProt:P20393 NR1D1,P20393,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference10,HREV,P20393,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference10,EAR1,P20393,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference10,NR1D1,P20393,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference10,THRAL,P20393,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference57,BMAL2,Q8WYA1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference57,CLIF,Q8WYA1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference57,PASD9,Q8WYA1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference57,MOP9,Q8WYA1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference57,UniProt:Q8WYA1 BMAL2,Q8WYA1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference57,ARNTL2,Q8WYA1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference57,BHLHE6,Q8WYA1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference3,MECT1,Q6UUV9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference3,CRTC1,Q6UUV9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference3,TORC1,Q6UUV9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference3,KIAA0616,Q6UUV9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference3,UniProt:Q6UUV9 CRTC1,Q6UUV9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference3,WAMTP1,Q6UUV9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference75,PSMA2,P25787,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference75,HC3,P25787,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference75,PSC3,P25787,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference75,UniProt:P25787 PSMA2,P25787,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference109,FBXL21,Q9UKT6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference109,FBXL3B,Q9UKT6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference109,FBL3,Q9UKT6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference109,FBL21,Q9UKT6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference109,FBXL21P,Q9UKT6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference109,UniProt:Q9UKT6 FBXL21P,Q9UKT6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference109,FBXL3P,Q9UKT6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference62,PPP1CA,P62136,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference62,UniProt:P62136 PPP1CA,P62136,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference62,PPP1A,P62136,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference8,UniProt:P15336 ATF2,P15336,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference8,CREBP1,P15336,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference8,CREB2,P15336,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference8,ATF2,P15336,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference66,OCP2,P63208,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference66,SKP1,P63208,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference66,TCEB1L,P63208,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference66,UniProt:P63208 SKP1,P63208,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference66,SKP1A,P63208,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference66,EMC19,P63208,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference97,UniProt:P62191 PSMC1,P62191,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference97,PSMC1,P62191,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference17,UniProt:O00327 BMAL1,O00327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference17,PASD3,O00327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference17,MOP3,O00327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference17,ARNTL,O00327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference17,BMAL1,O00327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference17,BHLHE5,O00327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference32,BAF60C,Q6STE5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference32,SMARCD3,Q6STE5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference32,UniProt:Q6STE5 SMARCD3,Q6STE5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference88,Z,Q99436,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference88,UniProt:Q99436 PSMB7,Q99436,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference88,PSMB7,Q99436,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference84,UniProt:P49720 PSMB3,P49720,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference84,PSMB3,P49720,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference100,PSMD14,O00487,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference100,UniProt:O00487 PSMD14,O00487,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference100,POH1,O00487,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference38,UniProt:P67870 CSNK2B,P67870,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference38,G5A,P67870,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference38,CK2N,P67870,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference38,CSNK2B,P67870,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference55,NOC,Q9UK39,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference55,CCRN4L,Q9UK39,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference55,UniProt:Q9UK39 NOCT,Q9UK39,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference55,CCR4,Q9UK39,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference55,NOCT,Q9UK39,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference82,UniProt:P49721 PSMB2,P49721,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference82,PSMB2,P49721,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference16,UniProt:P48552 NRIP1,P48552,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference16,NRIP1,P48552,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference23,PPARA,Q07869,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference23,PPAR,Q07869,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference23,NR1C1,Q07869,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference23,UniProt:Q07869 PPARA,Q07869,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference87,PSMB6,P28072,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference87,UniProt:P28072 PSMB6,P28072,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference87,Y,P28072,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference87,LMPY,P28072,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference95,PSMD2,Q13200,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference95,TRAP2,Q13200,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference95,UniProt:Q13200 PSMD2,Q13200,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference24,UniProt:P19793 RXRA,P19793,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference24,RXRA,P19793,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference24,NR2B1,P19793,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference90,TBP7,P43686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference90,PSMC4,P43686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference90,MIP224,P43686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference90,UniProt:P43686 PSMC4,P43686,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference11,NCOR1,O75376,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference11,UniProt:O75376 NCOR1,O75376,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference11,KIAA1047,O75376,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference98,UniProt:P48556 PSMD8,P48556,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference98,PSMD8,P48556,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference50,UniProt:P19484 TFEB,P19484,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference50,BHLHE35,P19484,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference50,TFEB,P19484,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference14,RORG,P51449,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference14,RZRG,P51449,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference14,NR1F3,P51449,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference14,UniProt:P51449 RORC,P51449,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference14,RORC,P51449,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference18,SIR2L1,Q96EB6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference18,UniProt:Q96EB6 SIRT1,Q96EB6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference18,SIRT1,Q96EB6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference80,PSMA5,P28066,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference80,UniProt:P28066 PSMA5,P28066,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference63,PPP1CB,P62140,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference63,UniProt:P62140 PPP1CB,P62140,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference46,RBM4,Q9BWF3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference46,UniProt:Q9BWF3 RBM4,Q9BWF3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference46,RBM4A,Q9BWF3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference79,PSC9,P25789,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference79,HC9,P25789,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference79,PSMA4,P25789,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference79,UniProt:P25789 PSMA4,P25789,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference37,CSNK2A1,P68400,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference37,UniProt:P68400 CSNK2A1,P68400,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference37,CK2A1,P68400,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference108,SFT,P51668,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference108,UniProt:P51668 UBE2D1,P51668,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference108,UBE2D1,P51668,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference108,UBCH5,P51668,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference108,UBC5A,P51668,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference108,UBCH5A,P51668,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference33,HCA137,Q96RS0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference33,TGS1,Q96RS0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference33,UniProt:Q96RS0 TGS1,Q96RS0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference33,PIMT,Q96RS0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference33,NCOA6IP,Q96RS0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference105,UniProt:Q15008 PSMD6,Q15008,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference105,PSMD6,Q15008,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference105,KIAA0107,Q15008,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference105,PFAAP4,Q15008,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference54,UniProt:P08709 F7,P08709,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference54,F7,P08709,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference76,PSC8,P25788,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference76,UniProt:P25788 PSMA3,P25788,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference76,PSMA3,P25788,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference76,HC8,P25788,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference72,UniProt:P62987 UBA52,P62987,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference72,UBCEP2,P62987,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference72,UBA52,P62987,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference81,UniProt:O14818 PSMA7,O14818,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference81,PSMA7,O14818,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference81,HSPC,O14818,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference41,CRY2,Q49AN0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference41,KIAA0658,Q49AN0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference41,UniProt:Q49AN0 CRY2,Q49AN0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference85,PSC5,P20618,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference85,PSMB1,P20618,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference85,UniProt:P20618 PSMB1,P20618,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference67,UniProt:Q13616 CUL1,Q13616,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference67,CUL1,Q13616,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference58,NAMPT,P43490,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference58,UniProt:P43490 NAMPT,P43490,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference58,PBEF,P43490,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference58,PBEF1,P43490,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference9,UniProt:O15379 HDAC3,O15379,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference9,HDAC3,O15379,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference20,RAI1,Q7Z5J4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference20,UniProt:Q7Z5J4 RAI1,Q7Z5J4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference20,KIAA1820,Q7Z5J4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference31,PRIC285,Q9BYK8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference31,KIAA1769,Q9BYK8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference31,UniProt:Q9BYK8 HELZ2,Q9BYK8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference31,HELZ2,Q9BYK8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference19,KIAA0334,O15516,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference19,BHLHE8,O15516,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference19,UniProt:O15516 CLOCK,O15516,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference19,CLOCK,O15516,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference53,BHLHE41,Q9C0J9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference53,SHARP1,Q9C0J9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference53,BHLHB3,Q9C0J9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference53,UniProt:Q9C0J9 BHLHE41,Q9C0J9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference53,DEC2,Q9C0J9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference94,PSMC3,P17980,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference94,UniProt:P17980 PSMC3,P17980,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference94,TBP1,P17980,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference86,LMPX,P28074,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference86,UniProt:P28074 PSMB5,P28074,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference86,PSMB5,P28074,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference86,X,P28074,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference86,MB1,P28074,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference21,BHLHE9,Q99743,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference21,NPAS2,Q99743,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference21,MOP4,Q99743,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference21,UniProt:Q99743 NPAS2,Q99743,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference21,PASD4,Q99743,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference89,UniProt:Q99460 PSMD1,Q99460,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference89,PSMD1,Q99460,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference5,UniProt:Q6UUV7 CRTC3,Q6UUV7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference5,CRTC3,Q6UUV7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference5,TORC3,Q6UUV7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference102,PSMD12,O00232,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference102,UniProt:O00232 PSMD12,O00232,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference26,CARM1,Q86X55,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference26,UniProt:Q86X55 CARM1,Q86X55,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference26,PRMT4,Q86X55,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference40,CRY1,Q16526,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference40,PHLL1,Q16526,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference40,UniProt:Q16526 CRY1,Q16526,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference56,SERPINE1,P05121,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference56,UniProt:P05121 SERPINE1,P05121,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference56,PAI1,P05121,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference56,PLANH1,P05121,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference36,UniProt:Q00535 CDK5,Q00535,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference36,PSSALRE,Q00535,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference36,CDKN5,Q00535,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference36,CDK5,Q00535,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference104,PSMD3,O43242,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference104,UniProt:O43242 PSMD3,O43242,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference60,HCKID,P48730,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference60,UniProt:P48730 CSNK1D,P48730,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference60,CSNK1D,P48730,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference64,PPP1CC,P36873,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference64,UniProt:P36873 PPP1CC,P36873,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference59,UniProt:Q9UIH9 KLF15,Q9UIH9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference59,KLF15,Q9UIH9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference59,KKLF,Q9UIH9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference107,FBL3A,Q9UKT7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference107,UniProt:Q9UKT7 FBXL3,Q9UKT7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference107,FBXL3A,Q9UKT7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference107,FBXL3,Q9UKT7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference73,UBB,P0CG47,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference73,UniProt:P0CG47 UBB,P0CG47,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference77,UniProt:P60900 PSMA6,P60900,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference77,PSMA6,P60900,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference77,PROS27,P60900,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference111,SREBP1,P36956,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference111,SREBF1,P36956,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference111,BHLHD1,P36956,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference111,UniProt:P36956 SREBF1,P36956,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference12,UniProt:P35398 RORA,P35398,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference12,RORA,P35398,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference12,RZRA,P35398,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference12,NR1F1,P35398,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,UniProt:Q15648 MED1,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,PBP,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,TRIP2,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,PPARBP,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,PPARGBP,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,CRSP200,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,ARC205,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,TRAP220,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,DRIP205,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,MED1,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,DRIP230,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,CRSP1,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference27,RB18A,Q15648,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference34,KIAA0308,Q3L8U1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference34,UniProt:Q3L8U1 CHD9,Q3L8U1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference34,PRIC320,Q3L8U1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference34,CHD9,Q3L8U1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference34,KISH2,Q3L8U1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference34,x0008,Q3L8U1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference34,AD-013,Q3L8U1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference49,PER3,P56645,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference49,UniProt:P56645 PER3,P56645,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference49,GIG13,P56645,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference35,UniProt:O60907 TBL1X,O60907,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference35,TBL1X,O60907,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference35,TBL1,O60907,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference68,BTRCP,Q9Y297,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference68,FBXW1A,Q9Y297,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference68,BTRC,Q9Y297,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference68,FBW1A,Q9Y297,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference68,UniProt:Q9Y297 BTRC,Q9Y297,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference28,NCOA1,Q15788,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference28,SRC1,Q15788,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference28,BHLHE74,Q15788,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference28,UniProt:Q15788 NCOA1,Q15788,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference4,UniProt:Q53ET0 CRTC2,Q53ET0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference4,CRTC2,Q53ET0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference4,TORC2,Q53ET0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference6,MEF2C,Q06413,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#ProteinReference6,UniProt:Q06413 MEF2C,Q06413,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference5,linoleic acid [ChEBI:17351],CHEBI:17351,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference5,linoleic acid,CHEBI:17351,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference1,ferriheme b [ChEBI:36144],CHEBI:36144,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference1,ferriheme b,CHEBI:36144,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference9,ADP(3-),CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference9,5&apos;-O-[(phosphonatooxy)phosphinato]adenosine,CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference9,ADP trianion,CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference9,ADP(3-) [ChEBI:456216],CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference9,ADP,CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference8,atp,CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference8,ATP(4-),CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference8,ATP(4-) [ChEBI:30616],CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference8,ATP,CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference8,Adenosine 5'-triphosphate,CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference7,"2,7,13,17-tetramethyl-1,19-dioxo-3,18-divinyl-1,10,19,22,23,24-hexahydro-21H-biline-8,12-dipropanoate",CHEBI:57977,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference7,bilirubin(2-) [ChEBI:57977],CHEBI:57977,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference7,bilirubin dianion,CHEBI:57977,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference7,bilirubin IXalpha,CHEBI:57977,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference7,bilirubin(2-),CHEBI:57977,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,icosapentaenoate,CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,"all-cis-5,8,11,14,17-icosapentaenoate [ChEBI:58562]",CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,"cis-Delta(5,8,11,14,17)-eicosapentaenoate",CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,eicosapentaenoate,CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,"(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate",CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,(EPA; 20:5n3),CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,"all-cis-5,8,11,14,17-icosapentaenoate",CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,"(5Z,8Z,11Z,14Z,17Z)-icosa-5,8,11,14,17-pentaenoate",CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference4,"all-cis-5,8,11,14,17-eicosapentaenoate",CHEBI:58562,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference10,acetyl-coenzyme A(4-),CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference10,acetyl-CoA(4-) [ChEBI:57288],CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference10,AcCoA(4-),CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference10,acetyl-CoA,CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference10,acetyl-CoA tetraanion,CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference10,acetyl-CoA(4-),CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference10,"3'-phosphonatoadenosine 5'-(3-{(3R)-4-[(3-{[2-(acetylsulfanyl)ethyl]amino}-3-oxopropyl)amino]-3-hydroxy-2,2-dimethyl-4-oxobutyl} diphosphate)",CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference3,"(5Z,8Z,11Z,14Z)-eicosatetraenoate",CHEBI:32395,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference3,"(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate",CHEBI:32395,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference3,arachidonate [ChEBI:32395],CHEBI:32395,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference3,arachidonate,CHEBI:32395,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference3,(20:4n6),CHEBI:32395,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference11,"3'-phosphonatoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-({3-oxo-3-[(2-sulfanylethyl)amino]propyl}amino)butyl] diphosphate}",CHEBI:57287,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference11,coenzyme A(4-) [ChEBI:57287],CHEBI:57287,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference11,CoA,CHEBI:57287,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference11,coenzyme A(4-),CHEBI:57287,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference6,hexadecanoate,CHEBI:7896,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference6,hexadecanoate [ChEBI:7896],CHEBI:7896,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference2,alpha-linolenic acid [ChEBI:27432],CHEBI:27432,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9909396#SmallMoleculeReference2,alpha-linolenic acid,CHEBI:27432,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference

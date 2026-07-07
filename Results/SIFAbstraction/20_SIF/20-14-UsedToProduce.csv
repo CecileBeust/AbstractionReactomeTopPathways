@@ -1,0 +1,5 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/397014#SmallMoleculeReference42,abstraction:UsedToProduce,http://www.reactome.org/biopax/96/397014#SmallMoleculeReference41
+http://www.reactome.org/biopax/96/397014#SmallMoleculeReference1,abstraction:UsedToProduce,http://www.reactome.org/biopax/96/397014#SmallMoleculeReference42
+http://www.reactome.org/biopax/96/397014#SmallMoleculeReference42,abstraction:UsedToProduce,http://www.reactome.org/biopax/96/397014#SmallMoleculeReference1
+http://www.reactome.org/biopax/96/397014#SmallMoleculeReference41,abstraction:UsedToProduce,http://www.reactome.org/biopax/96/397014#SmallMoleculeReference42

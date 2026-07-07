@@ -1,0 +1,14 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/1640170#ProteinReference529,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference526
+http://www.reactome.org/biopax/96/1640170#ProteinReference529,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference527
+http://www.reactome.org/biopax/96/1640170#ProteinReference530,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference526
+http://www.reactome.org/biopax/96/1640170#ProteinReference197,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference252
+http://www.reactome.org/biopax/96/1640170#ProteinReference116,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference527
+http://www.reactome.org/biopax/96/1640170#ProteinReference529,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference528
+http://www.reactome.org/biopax/96/1640170#ProteinReference117,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference527
+http://www.reactome.org/biopax/96/1640170#ProteinReference530,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference528
+http://www.reactome.org/biopax/96/1640170#ProteinReference116,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference526
+http://www.reactome.org/biopax/96/1640170#ProteinReference117,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference526
+http://www.reactome.org/biopax/96/1640170#ProteinReference530,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference527
+http://www.reactome.org/biopax/96/1640170#ProteinReference116,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference528
+http://www.reactome.org/biopax/96/1640170#ProteinReference117,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1640170#ProteinReference528

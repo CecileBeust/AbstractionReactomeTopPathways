@@ -1,0 +1,10 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference104
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference102
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference105
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference1,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference13
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference103
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference106
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference7,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference109
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference108
+http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6,abstraction:ConsumptionControlledBy,http://www.reactome.org/biopax/96/1474165#ProteinReference107

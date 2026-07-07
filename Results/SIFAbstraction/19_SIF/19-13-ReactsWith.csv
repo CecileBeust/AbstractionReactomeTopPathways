@@ -1,0 +1,3 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/8953854#SmallMoleculeReference37,abstraction:ReactsWith,http://www.reactome.org/biopax/96/8953854#SmallMoleculeReference5
+http://www.reactome.org/biopax/96/8953854#SmallMoleculeReference5,abstraction:ReactsWith,http://www.reactome.org/biopax/96/8953854#SmallMoleculeReference37

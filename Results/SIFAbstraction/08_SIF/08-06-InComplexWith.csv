@@ -1,0 +1,5 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/8963743#ProteinReference20,abstraction:InComplexWith,http://www.reactome.org/biopax/96/8963743#ProteinReference21
+http://www.reactome.org/biopax/96/8963743#ProteinReference20,abstraction:InComplexWith,http://www.reactome.org/biopax/96/8963743#ProteinReference22
+http://www.reactome.org/biopax/96/8963743#ProteinReference21,abstraction:InComplexWith,http://www.reactome.org/biopax/96/8963743#ProteinReference22
+http://www.reactome.org/biopax/96/8963743#ProteinReference2,abstraction:InComplexWith,http://www.reactome.org/biopax/96/8963743#ProteinReference3

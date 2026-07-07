@@ -1,0 +1,15 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference25,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference28
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference28,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference25
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference26,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference28
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference27,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference28
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference46,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference47
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference26,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference25
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference28,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference27
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference28,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference26
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference25,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference27
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference26,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference27
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference25,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference26
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference27,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference25
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference27,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference26
+http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference47,abstraction:ReactsWith,http://www.reactome.org/biopax/96/1640170#SmallMoleculeReference46

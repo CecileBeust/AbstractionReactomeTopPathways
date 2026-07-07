@@ -1,0 +1,14 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/9709957#ProteinReference501,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference489
+http://www.reactome.org/biopax/96/9709957#ProteinReference497,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference488
+http://www.reactome.org/biopax/96/9709957#ProteinReference490,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference477
+http://www.reactome.org/biopax/96/9709957#ProteinReference502,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference489
+http://www.reactome.org/biopax/96/9709957#ProteinReference498,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference488
+http://www.reactome.org/biopax/96/9709957#ProteinReference505,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference477
+http://www.reactome.org/biopax/96/9709957#ProteinReference504,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference477
+http://www.reactome.org/biopax/96/9709957#ProteinReference519,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference518
+http://www.reactome.org/biopax/96/9709957#ProteinReference503,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference477
+http://www.reactome.org/biopax/96/9709957#ProteinReference499,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference488
+http://www.reactome.org/biopax/96/9709957#ProteinReference507,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference477
+http://www.reactome.org/biopax/96/9709957#ProteinReference506,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference477
+http://www.reactome.org/biopax/96/9709957#ProteinReference500,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/9709957#ProteinReference488

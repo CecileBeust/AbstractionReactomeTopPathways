@@ -1,0 +1,4 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/74160#ProteinReference707,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/74160#SmallMoleculeReference37
+http://www.reactome.org/biopax/96/74160#ProteinReference705,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/74160#SmallMoleculeReference37
+http://www.reactome.org/biopax/96/74160#ProteinReference706,abstraction:ControlsTransportOfChemical,http://www.reactome.org/biopax/96/74160#SmallMoleculeReference37

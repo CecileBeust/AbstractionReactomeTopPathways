@@ -1,0 +1,4 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/382551#ProteinReference664,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/382551#ProteinReference663
+http://www.reactome.org/biopax/96/382551#ProteinReference665,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/382551#ProteinReference663
+http://www.reactome.org/biopax/96/382551#ProteinReference194,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/382551#ProteinReference193

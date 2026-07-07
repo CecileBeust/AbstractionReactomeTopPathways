@@ -1,0 +1,14 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/5653656#ProteinReference490,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference579
+http://www.reactome.org/biopax/96/5653656#ProteinReference491,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference578
+http://www.reactome.org/biopax/96/5653656#ProteinReference490,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference578
+http://www.reactome.org/biopax/96/5653656#ProteinReference567,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference566
+http://www.reactome.org/biopax/96/5653656#ProteinReference491,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference579
+http://www.reactome.org/biopax/96/5653656#ProteinReference503,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference499
+http://www.reactome.org/biopax/96/5653656#ProteinReference505,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference499
+http://www.reactome.org/biopax/96/5653656#ProteinReference580,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference579
+http://www.reactome.org/biopax/96/5653656#ProteinReference502,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference499
+http://www.reactome.org/biopax/96/5653656#ProteinReference504,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference499
+http://www.reactome.org/biopax/96/5653656#ProteinReference580,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference578
+http://www.reactome.org/biopax/96/5653656#ProteinReference500,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference499
+http://www.reactome.org/biopax/96/5653656#ProteinReference501,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/5653656#ProteinReference499

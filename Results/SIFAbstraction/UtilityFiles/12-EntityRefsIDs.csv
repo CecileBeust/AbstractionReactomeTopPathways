@@ -1,0 +1,1051 @@
+entityRef,entityRefName,entityID,entityRefType
+http://www.reactome.org/biopax/96/9748784#ProteinReference95,PEPCK1,P35558,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference95,PCK1,P35558,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference95,UniProt:P35558 PCK1,P35558,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference53,UniProt:P10632 CYP2C8,P10632,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference53,CYP2C8,P10632,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference67,UniProt:O15438 ABCC3,O15438,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference67,MRP3,O15438,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference67,CMOAT2,O15438,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference67,MLP2,O15438,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference67,ABCC3,O15438,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference17,NDK2,P22392,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference17,UniProt:P22392 NME2,P22392,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference17,NME2,P22392,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference17,NM23B,P22392,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference31,CES2,P23141,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference31,UniProt:P23141 CES1,P23141,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference31,SES1,P23141,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference31,CES1,P23141,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference39,GNT1,O60656,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference39,UniProt:O60656 UGT1A9,O60656,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference39,UGT1A9,O60656,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference39,UGT1,O60656,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference47,UniProt:P06133 UGT2B4,P06133,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference47,UGT2B11,P06133,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference47,UGT2B4,P06133,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference38,UGT1A8,Q9HAW9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference38,UniProt:Q9HAW9 UGT1A8,Q9HAW9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference38,GNT1,Q9HAW9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference38,UGT1,Q9HAW9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference30,OAT2,Q9Y694-2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference30,NLT,Q9Y694-2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference30,UniProt:Q9Y694-2 SLC22A7,Q9Y694-2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference30,SLC22A7,Q9Y694-2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference89,OCT2,O15244,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference89,UniProt:O15244 SLC22A2,O15244,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference89,SLC22A2,O15244,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference75,BCRP1,Q9UNQ0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference75,ABCG2,Q9UNQ0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference75,MXR,Q9UNQ0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference75,UniProt:Q9UNQ0 ABCG2,Q9UNQ0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference75,BCRP,Q9UNQ0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference75,ABCP,Q9UNQ0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference44,UGT2B15,P54855,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference44,UniProt:P54855 UGT2B15,P54855,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference44,UGT2B8,P54855,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference3,SLC29A1,Q99808,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference3,ENT1,Q99808,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference3,UniProt:Q99808 SLC29A1,Q99808,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference40,UGT2A1,P0DTE4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference40,UniProt:P0DTE4 UGT2A1,P0DTE4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference22,VAV2,P52735,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference22,UniProt:P52735 VAV2,P52735,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference14,ABCC5,O15440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference14,UniProt:O15440 ABCC5,O15440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference14,MRP5,O15440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference109,AKR1C1,Q04828,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference109,DDH1,Q04828,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference109,UniProt:Q04828 AKR1C1,Q04828,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference109,DDH,Q04828,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference102,UniProt:Q9BY32 ITPA,Q9BY32,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference102,C20orf37,Q9BY32,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference102,My049,Q9BY32,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference102,ITPA,Q9BY32,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference102,OK/SW-cl.9,Q9BY32,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference58,ACSM2,Q68CK6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference58,ACSM2B,Q68CK6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference58,HYST1046,Q68CK6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference58,UniProt:Q68CK6 ACSM2B,Q68CK6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference86,NAT2,P11245,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference86,AAC2,P11245,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference86,UniProt:P11245 NAT2,P11245,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference82,GGTL5,Q9UJ14,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference82,UniProt:Q9UJ14 GGT7,Q9UJ14,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference82,GGTL3,Q9UJ14,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference82,GGT7,Q9UJ14,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference79,GGT,P19440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference79,GGT1,P19440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference79,UniProt:P19440 GGT1,P19440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference88,UniProt:O15245 SLC22A1,O15245,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference88,SLC22A1,O15245,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference88,OCT1,O15245,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference61,MACS3,Q6NUN0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference61,UniProt:Q6NUN0 ACSM5,Q6NUN0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference61,ACSM5,Q6NUN0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference4,ENT2,Q14542,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference4,UniProt:Q14542 SLC29A2,Q14542,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference4,DER12,Q14542,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference4,HNP36,Q14542,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference4,SLC29A2,Q14542,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference98,UniProt:O94956-3 SLCO2B1,O94956-3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference98,SLC21A9,O94956-3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference98,KIAA0880,O94956-3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference98,SLCO2B1,O94956-3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference98,OATPB,O94956-3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference98,OATP2B1,O94956-3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference13,MRP4,O15439,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference13,ABCC4,O15439,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference13,MOATB,O15439,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference13,UniProt:O15439 ABCC4,O15439,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference35,UniProt:P22310 UGT1A4,P22310,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference35,UGT1A4,P22310,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference35,GNT1,P22310,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference35,UGT1,P22310,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference85,UniProt:P18440 NAT1,P18440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference85,AAC1,P18440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference85,NAT1,P18440,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference49,UniProt:Q6UWM9 UGT2A3,Q6UWM9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference49,UGT2A3,Q6UWM9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference49,UNQ2559/PRO6239,Q6UWM9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference80,GGTLA1,P36269,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference80,GGT5,P36269,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference80,UniProt:P36269 GGT5,P36269,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference18,NM23,P15531,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference18,UniProt:P15531 NME1,P15531,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference18,NDPKA,P15531,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference18,NME1,P15531,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference10,HPRT,P00492,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference10,HPRT1,P00492,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference10,UniProt:P00492 HPRT1,P00492,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference54,CYP2C10,P11712,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference54,UniProt:P11712 CYP2C9,P11712,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference54,CYP2C9,P11712,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference12,UniProt:P12268 IMPDH2,P12268,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference12,IMPDH2,P12268,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference12,IMPD2,P12268,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference51,UGT3A2,Q3SY77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference51,PSEC0073,Q3SY77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference51,UNQ842/PRO1780,Q3SY77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference51,UniProt:Q3SY77 UGT3A2,Q3SY77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference26,SLC21A9,O94956-1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference26,KIAA0880,O94956-1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference26,SLCO2B1,O94956-1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference26,UniProt:O94956-1 SLCO2B1,O94956-1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference26,OATPB,O94956-1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference26,OATP2B1,O94956-1,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference5,GSTA1,P08263,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference5,UniProt:P08263 GSTA1,P08263,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference77,GSTP1,P09211,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference77,UniProt:P09211 GSTP1,P09211,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference77,GST3,P09211,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference77,FAEES3,P09211,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference50,UGT3A1,Q6NUS8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference50,UniProt:Q6NUS8 UGT3A1,Q6NUS8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference41,UGT2A2,P0DTE5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference41,UniProt:P0DTE5 UGT2A2,P0DTE5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference105,SLC29A3,Q9BZD2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference105,UNQ717/PRO1380,Q9BZD2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference105,ENT3,Q9BZD2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference105,UniProt:Q9BZD2 SLC29A3,Q9BZD2,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference45,UniProt:O75795 UGT2B17,O75795,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference45,UGT2B17,O75795,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference2,CNT3,Q9HAS3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference2,SLC28A3,Q9HAS3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference2,UniProt:Q9HAS3 SLC28A3,Q9HAS3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference87,ABCC1,P33527,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference87,MRP,P33527,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference87,MRP1,P33527,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference87,UniProt:P33527 ABCC1,P33527,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference106,SERPINA6,P08185,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference106,UniProt:P08185 SERPINA6,P08185,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference106,CBG,P08185,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference48,UGT2B7,P16662,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference48,UGTB2B9,P16662,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference48,UniProt:P16662 UGT2B7,P16662,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference83,GGT3,A6NGU5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference83,GGT3P,A6NGU5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference83,UniProt:A6NGU5 GGT3P,A6NGU5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference23,UniProt:Q9UKW4 VAV3,Q9UKW4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference23,VAV3,Q9UKW4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference84,PEPA,Q96KP4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference84,HEL-S-13,Q96KP4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference84,CNDP2,Q96KP4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference84,UniProt:Q96KP4 CNDP2,Q96KP4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference84,CPGL,Q96KP4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference84,CN2,Q96KP4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference27,CES2,O00748,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference27,UniProt:O00748 CES2,O00748,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference27,ICE,O00748,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference92,UniProt:P07327 ADH1A,P07327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference92,ADH1,P07327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference92,ADH1A,P07327,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference19,NUDT15,Q9NV35,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference19,UniProt:Q9NV35 NUDT15,Q9NV35,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference19,MTH2,Q9NV35,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference70,UniProt:P0DMM9 SULT1A3,P0DMM9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference70,STM,P0DMM9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference70,SULT1A3,P0DMM9,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference32,UniProt:P22309 UGT1A1,P22309,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference32,GNT1,P22309,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference32,UGT1A1,P22309,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference32,UGT1,P22309,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference104,ADA,P00813,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference104,UniProt:P00813 ADA,P00813,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference104,ADA1,P00813,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference55,CYP2DL1,P10635,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference55,UniProt:P10635 CYP2D6,P10635,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference55,CYP2D6,P10635,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference111,SLC22A8,Q8TCC7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference111,UniProt:Q8TCC7 SLC22A8,Q8TCC7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference111,OAT3,Q8TCC7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference100,PON3,Q15166,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference100,UniProt:Q15166 PON3,Q15166,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference25,UniProt:P35613 BSG,P35613,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference25,BSG,P35613,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference25,UNQ6505/PRO21383,P35613,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference62,CAT,Q6IB77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference62,GLYAT,Q6IB77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference62,UniProt:Q6IB77 GLYAT,Q6IB77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference62,GAT,Q6IB77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference62,ACGNAT,Q6IB77,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference78,UniProt:P30711 GSTT1,P30711,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference78,GSTT1,P30711,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference33,GNT1,P19224,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference33,UniProt:P19224 UGT1A6,P19224,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference33,UGT1,P19224,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference33,UGT1A6,P19224,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference63,UniProt:Q8WU03 GLYATL2,Q8WU03,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference63,GLYATL2,Q8WU03,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference97,OATP8,Q9NPD5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference97,LST2,Q9NPD5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference97,SLCO1B3,Q9NPD5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference97,SLC21A8,Q9NPD5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference97,OATP1B3,Q9NPD5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference97,UniProt:Q9NPD5 SLCO1B3,Q9NPD5,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference81,GGT6,Q6P531,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference81,UniProt:Q6P531 GGT6,Q6P531,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference107,HSD11B1,P28845,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference107,SDR26C1,P28845,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference107,HSD11L,P28845,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference107,HSD11,P28845,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference107,UniProt:P28845 HSD11B1,P28845,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference69,STP1,P50225,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference69,STP,P50225,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference69,SULT1A1,P50225,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference69,UniProt:P50225 SULT1A1,P50225,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference69,OK/SW-cl.88,P50225,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference68,UGT1A10,Q9HAW8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference68,UniProt:Q9HAW8 UGT1A10,Q9HAW8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference68,GNT1,Q9HAW8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference68,UGT1,Q9HAW8,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference8,UniProt:P51580 TPMT,P51580,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference8,TPMT,P51580,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference94,NT5C2,P49902,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference94,NT5CP,P49902,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference94,UniProt:P49902 NT5C2,P49902,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference94,PNT5,P49902,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference94,NT5B,P49902,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference71,UniProt:P0DMN0 SULT1A4,P0DMN0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference71,SULT1A4,P0DMN0,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference15,UniProt:P49915 GMPS,P49915,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference15,GMPS,P49915,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference99,PON1,P27169,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference99,PON,P27169,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference99,UniProt:P27169 PON1,P27169,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference74,SULT1C4,O75897,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference74,UniProt:O75897 SULT1C4,O75897,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference74,SULT1C2,O75897,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference42,UniProt:P36537 UGT2B10,P36537,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference42,UGT2B10,P36537,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference46,UGT2B28,Q9BY64,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference46,UniProt:Q9BY64 UGT2B28,Q9BY64,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference91,PGY1,P08183,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference91,MDR1,P08183,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference91,UniProt:P08183 ABCB1,P08183,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference91,ABCB1,P08183,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference93,UniProt:Q6DHV7 MAPDA,Q6DHV7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference93,MAPDA,Q6DHV7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference93,ADAL,Q6DHV7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference93,ADAL1,Q6DHV7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference6,UniProt:P09210 GSTA2,P09210,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference6,GST2,P09210,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference6,GSTA2,P09210,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference64,GLYATL1,Q969I3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference64,GNAT,Q969I3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference64,UniProt:Q969I3 GLYATL1,Q969I3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference24,SLC16A1,P53985,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference24,MCT1,P53985,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference24,UniProt:P53985 SLC16A1,P53985,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference108,UniProt:P80365 HSD11B2,P80365,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference108,SDR9C3,P80365,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference108,HSD11B2,P80365,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference108,HSD11K,P80365,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference66,ABCC2,Q92887,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference66,UniProt:Q92887 ABCC2,Q92887,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference66,MRP2,Q92887,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference66,CMOAT1,Q92887,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference66,CMRP,Q92887,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference66,CMOAT,Q92887,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference65,UniProt:Q5SZD4 GLYATL3,Q5SZD4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference65,C6orf140,Q5SZD4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference65,GLYATL3,Q5SZD4,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference21,UniProt:P15498 VAV1,P15498,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference21,VAV,P15498,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference21,VAV1,P15498,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference110,OATP,P46721,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference110,OATP1A2,P46721,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference110,UniProt:P46721 SLCO1A2,P46721,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference110,SLCO1A2,P46721,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference110,OATP1,P46721,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference110,SLC21A3,P46721,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference34,UniProt:P35503 UGT1A3,P35503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference34,GNT1,P35503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference34,UGT1A3,P35503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference34,UGT1,P35503,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,PRO2619,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,UNQ696/PRO1341,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,PRO0903,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,PRO2044,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,PRO1708,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,UniProt:P02768 ALB,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,PRO2675,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,GIG20,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,GIG42,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference29,ALB,P02768,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference43,UGT2B11,O75310,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference43,UniProt:O75310 UGT2B11,O75310,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference76,UniProt:Q03154 ACY1,Q03154,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference76,ACY1,Q03154,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference37,UGT1A7,Q9HAW7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference37,GNT1,Q9HAW7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference37,UniProt:Q9HAW7 UGT1A7,Q9HAW7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference37,UGT1,Q9HAW7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference101,UniProt:P55263 ADK,P55263,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference101,ADK,P55263,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference103,PNP,P00491,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference103,UniProt:P00491 PNP,P00491,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference103,NP,P00491,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference90,UniProt:O75751 SLC22A3,O75751,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference90,EMTH,O75751,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference90,SLC22A3,O75751,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference90,OCT3,O75751,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference16,GMPK,Q16774,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference16,GMK,Q16774,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference16,UniProt:Q16774 GUK1,Q16774,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference16,GUK1,Q16774,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference52,UniProt:P33261 CYP2C19,P33261,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference52,CYP2C19,P33261,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference72,UniProt:P49888 SULT1E1,P49888,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference72,SULT1E1,P49888,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference72,STE,P49888,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference60,UniProt:P0C7M7 ACSM4,P0C7M7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference60,ACSM4,P0C7M7,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference11,UniProt:P20839 IMPDH1,P20839,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference11,IMPD1,P20839,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference11,IMPDH1,P20839,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference9,XDHA,P47989,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference9,UniProt:P47989 XDH,P47989,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference9,XDH,P47989,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference73,HST,Q06520,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference73,SULT2A1,Q06520,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference73,STD,Q06520,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference73,UniProt:Q06520 SULT2A1,Q06520,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference59,ACSM2,Q08AH3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference59,UniProt:Q08AH3 ACSM2A,Q08AH3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference59,ACSM2A,Q08AH3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference59,MACS2,Q08AH3,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference57,CYP3A4,P08684,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference57,CYP3A3,P08684,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference57,UniProt:P08684 CYP3A4,P08684,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference96,SLCO1B1,Q9Y6L6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference96,OATPC,Q9Y6L6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference96,SLC21A6,Q9Y6L6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference96,OATP1B1,Q9Y6L6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference96,UniProt:Q9Y6L6 SLCO1B1,Q9Y6L6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference96,LST1,Q9Y6L6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference96,OATP2,Q9Y6L6,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference1,UniProt:O43868 SLC28A2,O43868,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference1,CNT2,O43868,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference1,SLC28A2,O43868,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference7,GSTM1,P09488,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference7,GST1,P09488,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference7,UniProt:P09488 GSTM1,P09488,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference28,CHE1,P06276,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference28,BCHE,P06276,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference28,UniProt:P06276 BCHE,P06276,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference36,UGT1A5,P35504,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference36,GNT1,P35504,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference36,UniProt:P35504 UGT1A5,P35504,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference36,UGT1,P35504,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference20,TC25,P63000,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference20,UniProt:P63000 RAC1,P63000,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference20,MIG5,P63000,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference20,RAC1,P63000,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference56,UniProt:P05181 CYP2E1,P05181,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference56,CYP2E1,P05181,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#ProteinReference56,CYP2E,P05181,http://www.biopax.org/release/biopax-level3.owl#ProteinReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference6,S-adenosyl-L-methionine,CHEBI:59789,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference6,[(3S)-3-azaniumyl-3-carboxylatopropyl](5'-deoxyadenosin-5'-yl)(methyl)sulfonium,CHEBI:59789,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference6,S-adenosyl-L-methionine zwitterion,CHEBI:59789,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference6,S-adenosyl-L-methionine zwitterion [ChEBI:59789],CHEBI:59789,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference91,abacavir 5'-carboxylic acid,CHEBI:64192,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference91,abacavir 5'-carboxylic acid [ChEBI:64192],CHEBI:64192,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference99,carbovir diphosphate [PubChem Compound:135564825],135564825,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference99,carbovir diphosphate,135564825,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference41,acetoacetic acid,CHEBI:15344,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference41,acetoacetic acid [ChEBI:15344],CHEBI:15344,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference129,erythromycin-A,1456,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference129,E-Mycin&reg;,1456,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference129,erythromycin,1456,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference129,erythromycin [Guide to Pharmacology:1456],1456,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference129,Erythrocin&reg;,1456,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference81,Acetaminophen glutathion,CHEBI:32639,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference81,AA-Glutathion,CHEBI:32639,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference81,acetaminophen glutathione conjugate [ChEBI:32639],CHEBI:32639,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference81,acetaminophen glutathione conjugate,CHEBI:32639,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference81,3-(Glutathion-S-yl)acetaminophen,CHEBI:32639,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference81,AA-Gsh,CHEBI:32639,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference81,Glutathione-S-acetaminophen conjugate,CHEBI:32639,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference126,dexamethasone [Guide to Pharmacology:2768],2768,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference126,Decadron&reg;,2768,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference126,desametasone,2768,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference126,fluormethylprednisolone,2768,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference126,dexamethasone,2768,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference18,6-thioinosine-5'-monophosphate(2-),CHEBI:180684,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference18,6-thioinosine-5'-monophosphate(2-) [ChEBI:180684],CHEBI:180684,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,etoposide [Guide to Pharmacology:6815],6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,VePesid&reg;,6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,Etopophos&reg;,6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,etoposide,6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,VP 16-213,6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,(-)-etoposide,6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,trans-etoposide,6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,Toposar&reg;,6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference130,VP-16,6815,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,ciclosporin,1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,Neoral&reg;,1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,cyclosporin A,1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,cyclosporin A [Guide to Pharmacology:1024],1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,cyclosporine A,1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,Verkazia&reg; (opthalmic solution),1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,Ikervis&reg; (opthalmic solution),1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,cyclosporine,1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference144,Sandimmun&reg;,1024,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference62,hydroxyl [ChEBI:29191],CHEBI:29191,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference62,hydroxyl,CHEBI:29191,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference62,hydroxyl radical,CHEBI:29191,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference62,(OH)(.),CHEBI:29191,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference62,HO(.),CHEBI:29191,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,"InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)",CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,glycine zwitterion [ChEBI:57305],CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,glycine,CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,DHMQDGOQFOQNFH-UHFFFAOYSA-N,CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,2-azaniumylacetate,CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,75.06660,CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,C2H5NO2,CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,glycine zwitterion,CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference66,[NH3+]CC([O-])=O,CHEBI:57305,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference67,"2-[(2,5-dihydroxyphenyl)formamido]acetic acid",CHEBI:88742,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference67,"n-(2,5-dihydroxybenzoyl)glycine",CHEBI:88742,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference67,Gentisuric acid [ChEBI:88742],CHEBI:88742,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference67,"2-[(2,5-dihydroxybenzoyl)amino]acetic acid",CHEBI:88742,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference67,Gentisuric acid,CHEBI:88742,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference80,zinc(2+),CHEBI:29105,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference80,zinc(2+) [ChEBI:29105],CHEBI:29105,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference132,STI571,5687,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference132,CGP 57148,5687,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference132,Glivec&reg;,5687,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference132,imatinib,5687,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference132,imatinib [Guide to Pharmacology:5687],5687,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference132,Gleevec&reg;,5687,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference117,ribavirin carboxylate [ChEBI:189551],CHEBI:189551,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference117,ribavirin carboxylate,CHEBI:189551,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference161,ciprofloxacin(1+) [ChEBI:192486],CHEBI:192486,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference161,ciprofloxacin(1+),CHEBI:192486,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,acetaminophen mercapturate,CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,N-acetyl-L-cysteinate S-paracetamol conjugate,CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,S-(5-acetamido-2-hydroxyphenyl)-N-acetyl-L-cysteinate,CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,N-acetyl-L-cysteinate S-acetaminophen conjugate,CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,3-(N-acetyl-L-cystein-S-yl)acetaminophen(1-),CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,acetaminophen N-acetyl-L-cysteinate conjugate,CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,S-(5-acetamido-2-hydroxyphenyl)-N-acetyl-L-cysteine(1-),CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,(2R)-2-acetamido-3-[(5-acetamido-2-hydroxyphenyl)sulfanyl]propanoate,CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,paracetamol N-acetyl-L-cysteinate conjugate,CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,S-(5-acetamido-2-hydroxyphenyl)-N-acetyl-L-cysteinate [ChEBI:133438],CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference86,N-acetyl-S-(5-(acetylamino)-2-hydroxyphenyl)-L-cysteine,CHEBI:133438,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference135,methylprednisolone,7088,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference135,Medrol&reg;,7088,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference135,methylprednisolone [Guide to Pharmacology:7088],7088,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference135,U-67590A,7088,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference27,ADP(3-),CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference27,5&apos;-O-[(phosphonatooxy)phosphinato]adenosine,CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference27,ADP trianion,CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference27,ADP(3-) [ChEBI:456216],CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference27,ADP,CHEBI:456216,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference69,Tylenol&reg;,5239,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference69,paracetamol [Guide to Pharmacology:5239],5239,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference69,Panadol&reg;,5239,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference69,paracetamol,5239,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference69,acetaminophen,5239,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference96,inosine 5'-phosphate(2-),CHEBI:58053,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference96,IMP,CHEBI:58053,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference96,inosine 5'-phosphate dianion,CHEBI:58053,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference96,inosine 5'-phosphate,CHEBI:58053,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference96,IMP dianion,CHEBI:58053,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference96,5'-O-phosphonatoinosine,CHEBI:58053,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference96,IMP(2-),CHEBI:58053,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference96,IMP(2-) [ChEBI:58053],CHEBI:58053,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference36,6-thiodeoxyguanosine triphosphate (4-),CHEBI:180691,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference36,6-thiodeoxyguanosine triphosphate (4-) [ChEBI:180691],CHEBI:180691,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,Campto&reg;,6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,irinotecan [Guide to Pharmacology:6823],6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,irinotecan hydrochloride,6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,Camptosar&reg;,6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,Onivyde&reg;,6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,(+)-irinotecan,6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,biotecan,6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,CPT-11,6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference133,irinotecan,6823,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference46,acetoacetate [ChEBI:13705],CHEBI:13705,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference46,acetoacetate,CHEBI:13705,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference13,6-Thiouric acid,CHEBI:80608,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference13,6-Thiourate,CHEBI:80608,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference13,6-Thiourate [ChEBI:80608],CHEBI:80608,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference153,6beta-hydroxyprednisone [ChEBI:180930],CHEBI:180930,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference153,6beta-hydroxyprednisone,CHEBI:180930,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference158,20beta-dihydroprednisolone [ChEBI:180696],CHEBI:180696,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference158,20beta-dihydroprednisolone,CHEBI:180696,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference131,gramicidin B,45267103,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference131,gramicidin D [PubChem Compound:45267103],45267103,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference131,gramicidin D,45267103,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference149,elacridar [PubChem Compound:119373],119373,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference149,elacridar,119373,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference28,6-Thioxanthine 5'-monophosphate,CHEBI:80612,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference28,6-Thioxanthine 5'-monophosphate [ChEBI:80612],CHEBI:80612,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference53,UDP(3-),CHEBI:58223,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference53,uridine 5'-diphosphate trianion,CHEBI:58223,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference53,5'-O-[(phosphonatooxy)phosphinato]uridine,CHEBI:58223,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference53,UDP(3-) [ChEBI:58223],CHEBI:58223,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference53,uridine 5'-diphosphate(3-),CHEBI:58223,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference53,UDP trianion,CHEBI:58223,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference53,UDP,CHEBI:58223,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference53,uridine 5'-diphosphate,CHEBI:58223,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference44,o-hydroxybenzoate,CHEBI:30762,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference44,salicylate,CHEBI:30762,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference44,salicylate [ChEBI:30762],CHEBI:30762,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference44,sal,CHEBI:30762,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference44,2-hydroxybenzoic acid ion(1-),CHEBI:30762,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference23,6-Thioguanosine monophosphate(2-) [ChEBI:180686],CHEBI:180686,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference23,6-Thioguanosine monophosphate(2-),CHEBI:180686,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference136,Abraxane&reg; (albumin-bound suspension),2770,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference136,paclitaxel [Guide to Pharmacology:2770],2770,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference136,7-epipaclitaxel,2770,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference136,Taxol&reg;,2770,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference136,paclitaxel,2770,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference11,water [ChEBI:15377],CHEBI:15377,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference11,water,CHEBI:15377,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference165,"2,3-bis(alkanoyloxy)propyl (1S,2R,3R,4S,5S,6R)-2,3,4,5,6-pentahydroxycyclohexyl phosphate",CHEBI:57880,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference165,"a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol)",CHEBI:57880,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference165,1-phosphatidyl-1D-myo-inositol anions,CHEBI:57880,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference165,1-phosphatidyl-1D-myo-inositol(1-),CHEBI:57880,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference165,1-phosphatidyl-1D-myo-inositol(1-) [ChEBI:57880],CHEBI:57880,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference165,1-phosphatidyl-1D-myo-inositol anion,CHEBI:57880,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,WHTCPDAXWFLDIH-KQYNXXCUSA-J,CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,"adenosine 3',5'-bismonophosphate",CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,C10H11N5O10P2,CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,"adenosine 3',5'-bisphosphate",CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,"InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7(25-27(20,21)22)4(24-10)1-23-26(17,18)19/h2-4,6-7,10,16H,1H2,(H2,11,12,13)(H2,17,18,19)(H2,20,21,22)/p-4/t4-,6-,7-,10-/m1/s1",CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,"adenosine 3',5'-bismonophosphate tetraanion",CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,"adenosine 3',5'-bismonophosphate(4-) [ChEBI:58343]",CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,Nc1ncnc2n(cnc12)[C@@H]1O[C@H](COP([O-])([O-])=O)[C@@H](OP([O-])([O-])=O)[C@H]1O,CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,"3',5'-di-O-phosphonatoadenosine",CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference71,"adenosine 3',5'-bismonophosphate(4-)",CHEBI:58343,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference110,ribavirin 5'-monophosphate(2-) [ChEBI:189091],CHEBI:189091,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference110,ribavirin 5'-monophosphate(2-),CHEBI:189091,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference123,budesonide [Guide to Pharmacology:7434],7434,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference123,Uceris&reg;,7434,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference123,Jorveza&reg;,7434,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference123,Entocort&reg;,7434,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference123,budesonide,7434,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference123,Pulmicort&reg;,7434,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference123,S-1320,7434,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,146.14450,CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,(2S)-5-amino-2-azaniumyl-5-oxopentanoate,CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,L-glutamine,CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,L-glutamine zwitterion,CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,L-glutamine zwitterion [ChEBI:58359],CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,(2S)-5-amino-2-ammonio-5-oxopentanoate,CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,C5H10N2O3,CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,ZDXPYRJPNDTMRX-VKHMYHEASA-N,CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,"InChI=1S/C5H10N2O3/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H2,7,8)(H,9,10)/t3-/m0/s1",CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference29,NC(=O)CC[C@H]([NH3+])C([O-])=O,CHEBI:58359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference160,chloride,CHEBI:17996,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference160,chloride [ChEBI:17996],CHEBI:17996,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference2,azathioprine,7120,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference2,azathioprine [Guide to Pharmacology:7120],7120,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference2,BW-57-322,7120,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference2,Imuran&reg;,7120,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference2,Azasan&reg;,7120,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference19,magnesium(2+),CHEBI:18420,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference19,magnesium(2+) [ChEBI:18420],CHEBI:18420,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference140,Vumon&reg;,6843,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference140,teniposide [Guide to Pharmacology:6843],6843,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference140,VM-26,6843,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference140,isosulfan blue,6843,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference140,teniposide,6843,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference145,Quinate&reg;,2510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference145,Qualaquin&reg;,2510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference145,quinine,2510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference145,quinine bisulphate,2510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference145,quinine [Guide to Pharmacology:2510],2510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference145,quinine sulfate,2510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference145,GNF-Pf-506,2510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference24,6-Thioguanosine monophosphate [ChEBI:80613],CHEBI:80613,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference24,6-Thioguanosine monophosphate,CHEBI:80613,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference49,paracetamol,CHEBI:46195,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference49,paracetamol [ChEBI:46195],CHEBI:46195,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,[PO3(OH)](2-),CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,HYDROGENPHOSPHATE ION,CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,[P(OH)O3](2-),CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,HPO4(2-),CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,hydrogen phosphate,CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,hydrogenphosphate,CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,INORGANIC PHOSPHATE GROUP,CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,hydrogenphosphate [ChEBI:43474],CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference26,phosphate,CHEBI:43474,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference162,ciprofloxacin zwitterion,CHEBI:192484,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference162,ciprofloxacin zwitterion [ChEBI:192484],CHEBI:192484,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference63,gentisate,CHEBI:58044,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference63,"2,5-dihydroxybenzoate",CHEBI:58044,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference63,"2,5-dihydroxybenzoate anion",CHEBI:58044,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference63,5-hydroxysalicylate,CHEBI:58044,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference63,hydroquinonecarboxylate,CHEBI:58044,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference63,"2,5-dihydroxybenzoate [ChEBI:58044]",CHEBI:58044,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference87,3-(cystein-S-yl)acetaminophen,CHEBI:133066,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference87,cysteine S-acetaminophen conjugate,CHEBI:133066,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference87,S-(5-acetamido-2-hydroxyphenyl)cysteine [ChEBI:133066],CHEBI:133066,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference87,acetaminophen cysteine conjugate,CHEBI:133066,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference87,S-(5-acetamido-2-hydroxyphenyl)cysteine,CHEBI:133066,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference87,cysteine S-paracetamol conjugate,CHEBI:133066,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference87,3-(cystein-S-yl)paracetamol,CHEBI:133066,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference87,paracetamol cysteine conjugate,CHEBI:133066,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference48,UDP-alpha-D-glucuronate trianion,CHEBI:58052,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference48,UDP-alpha-D-glucuronate,CHEBI:58052,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference48,UDP-alpha-D-glucuronate(3-) [ChEBI:58052],CHEBI:58052,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference48,UDP-alpha-D-glucuronate(3-),CHEBI:58052,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference77,isoniazid [PubChem Compound:3767],3767,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference77,isoniazid,3767,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference119,Pediapred&reg;,2866,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference119,DELTA.1-Cortisol,2866,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference119,prednisolone [Guide to Pharmacology:2866],2866,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference119,Orapred&reg;,2866,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference119,prednisolone,2866,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference127,Docecad&reg;,6809,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference127,docetaxel anhydrous,6809,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference127,docetaxel,6809,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference127,EmDOC,6809,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference127,Taxotere&reg;,6809,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference127,docetaxel [Guide to Pharmacology:6809],6809,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference57,phenol O-(beta-D-glucuronide),CHEBI:64681,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference57,phenol O-(beta-D-glucuronide) [ChEBI:64681],CHEBI:64681,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference109,ribavirin,6842,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference109,Rebetol&reg;,6842,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference109,ribavirin [Guide to Pharmacology:6842],6842,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference109,Virazole&reg;,6842,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference109,ribofuranosyl carboxamide,6842,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference109,Copegus&reg;,6842,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference109,RBV,6842,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference84,manganese(2+),CHEBI:29035,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference84,manganese(II),CHEBI:29035,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference84,MANGANESE (II) ION,CHEBI:29035,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference84,"manganese, ion (Mn2+)",CHEBI:29035,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference84,manganese(2+) [ChEBI:29035],CHEBI:29035,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference84,manganous ion,CHEBI:29035,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference84,Mn(2+),CHEBI:29035,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference20,methylthioinosine monophosphate [PubChem Compound:3037883],3037883,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference20,methylthioinosine monophosphate,3037883,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference9,hydron [ChEBI:15378],CHEBI:15378,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference9,hydron,CHEBI:15378,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference124,colchicine [Guide to Pharmacology:2367],2367,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference124,Colcrys&reg;,2367,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference124,colchicine,2367,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference120,Dactinomycin [PubChem Compound:457193],457193,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference120,Dactinomycin,457193,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference68,salicyluric acid [ChEBI:9008],CHEBI:9008,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference68,salicyluric acid,CHEBI:9008,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference50,debrisoquin [ChEBI:34665],CHEBI:34665,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference50,Isocaramidine,CHEBI:34665,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference50,Debrisochinum,CHEBI:34665,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference50,debrisoquin,CHEBI:34665,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference128,doxorubicin [Guide to Pharmacology:7069],7069,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference128,Doxil&reg;,7069,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference128,Caelyx&reg; (liposomal doxorubicin),7069,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference128,Adriamycin&reg;,7069,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference128,doxorubicin hydrochloride,7069,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference128,doxorubicin,7069,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference54,acetaminophen O-beta-D-glucosiduronate,CHEBI:132962,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference54,4-acetamidophenyl beta-D-glucopyranosiduronate,CHEBI:132962,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference54,4-acetamidophenyl beta-D-glucosiduronate,CHEBI:132962,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference54,p-acetamidophenyl beta-D-glucosiduronate,CHEBI:132962,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference54,p-acetamidophenyl beta-D-glucopyranosiduronate,CHEBI:132962,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference54,acetaminophen O-beta-D-glucosiduronate [ChEBI:132962],CHEBI:132962,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference54,4-acetamidophenyl beta-D-glucuronide(1-),CHEBI:132962,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference54,p-acetamidophenyl beta-D-glucuronide(1-),CHEBI:132962,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference93,adenosine,CHEBI:16335,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference93,adenosine [ChEBI:16335],CHEBI:16335,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference100,carbovir triphosphate,135499583,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference100,carbovir triphosphate [PubChem Compound:135499583],135499583,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference12,NADH(2-),CHEBI:57945,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference12,"adenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] diphosphate}",CHEBI:57945,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference12,NADH(2-) [ChEBI:57945],CHEBI:57945,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference12,NADH,CHEBI:57945,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference12,NADH dianion,CHEBI:57945,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference107,4-hydroxyatorvastatin lactone,CHEBI:180934,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference107,4-hydroxyatorvastatin lactone [ChEBI:180934],CHEBI:180934,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference107,4-OH-ATVL,CHEBI:180934,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference39,acetylsalicylate [ChEBI:13719],CHEBI:13719,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference39,acetylsalicylate,CHEBI:13719,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference21,6-Thioxanthine 5'-monophosphate(2-) [ChEBI:180685],CHEBI:180685,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference21,6-Thioxanthine 5'-monophosphate(2-),CHEBI:180685,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference21,6-TXMP(2-),CHEBI:180685,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference5,sodium(1+) [ChEBI:29101],CHEBI:29101,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference5,sodium(1+),CHEBI:29101,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference92,abacavir monophosphate [PubChem Compound:469588],469588,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference92,abacavir monophosphate,469588,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference101,atorvastatin [Guide to Pharmacology:2949],2949,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference101,Lipitor&reg;,2949,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference101,atorvastatin,2949,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference33,6 thioguanosine triphosphate(4-) [ChEBI:180688],CHEBI:180688,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference33,6 thioguanosine triphosphate(4-),CHEBI:180688,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference1,glutathionate,CHEBI:57925,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference1,glutathionate(1-),CHEBI:57925,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference1,glutathione,CHEBI:57925,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference1,glutathionate(1-) [ChEBI:57925],CHEBI:57925,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference1,glutathionate ion,CHEBI:57925,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference1,glutathionate anion,CHEBI:57925,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference141,vinblastine,6851,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference141,vinblastine [Guide to Pharmacology:6851],6851,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference141,vincaleucoblastin,6851,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference141,29060-LE,6851,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference141,Velbe&reg;,6851,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference141,Velban&reg;,6851,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference141,vincaleukoblastine,6851,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference76,NADP(+),CHEBI:58349,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference76,"2'-O-phosphonatoadenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] diphosphate}",CHEBI:58349,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference76,NADP trianion,CHEBI:58349,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference76,NADP(3-),CHEBI:58349,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference76,NADP(3-) [ChEBI:58349],CHEBI:58349,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference72,paracetamol sulfate [ChEBI:32635],CHEBI:32635,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference72,paracetamol sulfate,CHEBI:32635,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference114,alpha-D-ribose 1-phosphate(2-),CHEBI:57720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference114,alpha-D-ribose 1-phosphate dianion,CHEBI:57720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference114,alpha-D-ribose 1-phosphate,CHEBI:57720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference114,alpha-D-ribofuranose 1-phosphate,CHEBI:57720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference114,alpha-D-ribose 1-phosphate(2-) [ChEBI:57720],CHEBI:57720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference114,1-O-phosphonato-alpha-D-ribofuranose,CHEBI:57720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference32,6-Thioguanosine diphosphate(3-),CHEBI:180687,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference32,6-Thioguanosine diphosphate(3-) [ChEBI:180687],CHEBI:180687,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference75,N-Acetyl-p-benzoquinonimine,CHEBI:173517,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference75,N-Acetyl-p-benzoquinonimine [ChEBI:173517],CHEBI:173517,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,acetate [ChEBI:30089],CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,MeCO2 anion,CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,acetate,CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,"acetic acid, ion(1-)",CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,CH3-COO(-),CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,Azetat,CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,ethanoate,CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,ACETATE ION,CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference47,Ethanoat,CHEBI:30089,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,acetaminophen N-acetyl-L-cysteine conjugate,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,S-(5-acetamido-2-hydroxyphenyl)-N-acetyl-L-cysteine,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,paracetamol N-acetyl-L-cysteine conjugate,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,3-(N-acetyl-L-cystein-S-yl)acetaminophen,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,S-(5-acetamido-2-hydroxyphenyl)-N-acetyl-L-cysteine [ChEBI:133435],CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,Acetaminophen mercapturate,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,acetaminophen mercapturic acid,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,N-acetyl-L-cysteine S-paracetamol conjugate,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,N-Acetyl-S-(5-(acetylamino)-2-hydroxyphenyl)-L-cysteine,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference88,N-acetyl-L-cysteine S-acetaminophen conjugate,CHEBI:133435,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference122,bisantrene,5351322,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference122,bisantrene [PubChem Compound:5351322],5351322,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference163,3-oxociprofloxacin,CHEBI:192773,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference163,3-oxociprofloxacin [ChEBI:192773],CHEBI:192773,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,Proquin XR,10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,BAY-O9867,10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,Cetraxal&reg;,10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,Ciloxan&reg;,10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,CPFX,10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,Cipro&reg;,10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,BAY-O-9867,10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,ciprofloxacin [Guide to Pharmacology:10902],10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference159,ciprofloxacin,10902,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference146,valspodar [Guide to Pharmacology:11745],11745,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference146,valspodar,11745,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference89,abacavir,11152,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference89,abacavir [Guide to Pharmacology:11152],11152,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference89,1592U89,11152,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference89,Ziagen&reg;,11152,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference97,carbovir,135403630,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference97,carbovir [PubChem Compound:135403630],135403630,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference16,5-O-phosphonato-alpha-D-ribofuranosyl diphosphate(5-) [ChEBI:58017],CHEBI:58017,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference16,5-O-phosphonato-alpha-D-ribofuranosyl diphosphate pentaanion,CHEBI:58017,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference16,5-O-phosphonato-alpha-D-ribofuranosyl diphosphate(5-),CHEBI:58017,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference16,5-phospho-alpha-D-ribose 1-diphosphate,CHEBI:58017,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference16,5-phosphonatoribosyl 1-pyrophosphate,CHEBI:58017,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference16,5-phosphoribosyl 1-pyrophosphate,CHEBI:58017,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference116,ammonium,CHEBI:28938,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference116,ammonium [ChEBI:28938],CHEBI:28938,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference17,diphosphate(3-) [ChEBI:33019],CHEBI:33019,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference17,diphosphate(3-),CHEBI:33019,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference134,melphalan,7620,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference134,L-phenylalanine mustard (L-PAM),7620,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference134,Alkeran&reg;,7620,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference134,melfalan,7620,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference134,Sarcolysin&reg;,7620,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference134,L-sarcolysine,7620,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference134,melphalan [Guide to Pharmacology:7620],7620,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference134,CB-3025,7620,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference38,Aspirin&reg;,4139,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference38,acetylsalicylate,4139,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference38,acetylsalicylic acid,4139,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference38,aspirin [Guide to Pharmacology:4139],4139,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference38,Acetophen&reg;,4139,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference38,ASA,4139,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference38,aspirin,4139,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference150,zosuquidar [PubChem Compound:3036703],3036703,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference150,zosuquidar,3036703,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference51,N-hydroxy-4-aminobiphenyl,CHEBI:16580,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference51,N-hydroxy-4-aminobiphenyl [ChEBI:16580],CHEBI:16580,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference78,(2R)-2-acetamido-3-sulfanylpropanoate,CHEBI:78236,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference78,N-acetyl-L-cysteine,CHEBI:78236,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference78,N-acetyl-L-cysteinate [ChEBI:78236],CHEBI:78236,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference78,N-acetyl-L-cysteinate,CHEBI:78236,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference73,acetaminophen O-beta-D-glucosiduronic acid,CHEBI:32636,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference73,acetaminophen O-beta-D-glucosiduronic acid [ChEBI:32636],CHEBI:32636,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference25,9-(5-phosphoribofuranosyl)-6-mercaptopurine,CHEBI:2332,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference25,9-(5-phosphoribofuranosyl)-6-mercaptopurine [ChEBI:2332],CHEBI:2332,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference25,6-Thioinosine-5'-monophosphate,CHEBI:2332,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference25,9-(5-Phospho-1-ribofuranosyl)-6-mercaptopurine,CHEBI:2332,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference55,N-hydroxydebrisoquine O-glucuronide [ChEBI:65137],CHEBI:65137,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference55,N-hydroxydebrisoquine O-glucuronide,CHEBI:65137,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference95,cyclopropylamine [ChEBI:34660],CHEBI:34660,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference95,cyclopropylamine,CHEBI:34660,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference95,Aminocyclopropane,CHEBI:34660,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference85,acetyl-coenzyme A(4-),CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference85,acetyl-CoA(4-) [ChEBI:57288],CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference85,AcCoA(4-),CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference85,acetyl-CoA,CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference85,acetyl-CoA tetraanion,CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference85,acetyl-CoA(4-),CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference85,"3'-phosphonatoadenosine 5'-(3-{(3R)-4-[(3-{[2-(acetylsulfanyl)ethyl]amino}-3-oxopropyl)amino]-3-hydroxy-2,2-dimethyl-4-oxobutyl} diphosphate)",CHEBI:57288,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference115,"1,2,4-triazole-3-carboxamide",CHEBI:180482,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference115,"1,2,4-triazole-3-carboxamide [ChEBI:180482]",CHEBI:180482,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference142,leurocristine sulfate,6785,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference142,vincristine,6785,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference142,22-oxovincaleukoblastine,6785,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference142,NSC-67574,6785,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference142,vincristine [Guide to Pharmacology:6785],6785,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference142,Oncovin&reg;,6785,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference142,kyocristine,6785,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference58,1-salicylate O-glucuronide(1-) [ChEBI:176976],CHEBI:176976,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference58,1-salicylate O-glucuronide(1-),CHEBI:176976,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference102,o-hydroxyatorvastatin,6705,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference102,o-hydroxyatorvastatin [Guide to Pharmacology:6705],6705,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference60,dioxygen,CHEBI:15379,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference60,dioxygen [ChEBI:15379],CHEBI:15379,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,S-(5-acetamido-2-hydroxyphenyl)cysteine zwitterion,CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,3-(cystein-S-yl)acetaminophen zwitterion,CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,cysteine S-acetaminophen conjugate zwitterion,CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,S-(5-acetamido-2-hydroxyphenyl)cysteine zwitterion [ChEBI:133067],CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,3-(cystein-S-yl)paracetamol zwitterion,CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,cysteine S-paracetamol conjugate zwitterion,CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,3-[(5-acetamido-2-hydroxyphenyl)sulfanyl]-2-azaniumylpropanoate,CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,paracetamol cysteine conjugate zwitterion,CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference83,acetaminophen cysteine conjugate zwitterion,CHEBI:133067,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference121,azithromycin [Guide to Pharmacology:6510],6510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference121,azithromycin,6510,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference151,tetrandrine [PubChem Compound:73078],73078,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference151,tetrandrine,73078,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference138,ramiprilat,6344,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference138,ramiprilat [Guide to Pharmacology:6344],6344,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference156,20beta-dihydroprednisone [ChEBI:182970],CHEBI:182970,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference156,20beta-dihydroprednisone,CHEBI:182970,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference4,6-mercaptopurine,7226,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference4,mercaptopurine,7226,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference4,Purinethol&reg;,7226,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference4,Xaluprine&reg;,7226,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference4,mercaptopurine [Guide to Pharmacology:7226],7226,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference8,S-adenosyl-L-homocysteine zwitterion [ChEBI:57856],CHEBI:57856,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference8,S-adenosyl-L-homocysteine,CHEBI:57856,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference8,5'-S-[(3S)-3-azaniumyl-3-carboxylatopropyl]-5'-thioadenosine,CHEBI:57856,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference8,S-adenosyl-L-homocysteine zwitterion,CHEBI:57856,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference106,2-hydroxyatorvastatin lactone [ChEBI:180932],CHEBI:180932,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference106,2-hydroxyatorvastatin lactone,CHEBI:180932,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference106,2-OH-ATVL,CHEBI:180932,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference34,6 thiodeoxyguanosine monophosphate (2-) [ChEBI:180689],CHEBI:180689,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference34,6 thiodeoxyguanosine monophosphate (2-),CHEBI:180689,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference42,3-hydroxybutyrate,CHEBI:37054,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference42,3-hydroxybutyrate [ChEBI:37054],CHEBI:37054,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference137,ramipril [Guide to Pharmacology:6339],6339,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference137,Altace&reg;,6339,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference137,ramipril,6339,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference137,Tritace&reg;,6339,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference137,HOE-498,6339,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference154,6beta-hydroxyprednisolone [ChEBI:180697],CHEBI:180697,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference154,6beta-hydroxyprednisolone,CHEBI:180697,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference90,abacavir 5'-glucuronide [ChEBI:64189],CHEBI:64189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference90,abacavir 5'-glucuronide,CHEBI:64189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference118,prednisone [Guide to Pharmacology:7096],7096,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference118,prednisone,7096,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference118,Lodotra&reg;,7096,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference118,Sterapred&reg;,7096,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference10,NAD(+),CHEBI:57540,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference10,NAD(1-) [ChEBI:57540],CHEBI:57540,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference10,NAD anion,CHEBI:57540,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference10,NAD(1-),CHEBI:57540,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference10,"adenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] diphosphate}",CHEBI:57540,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference98,inosine [ChEBI:17596],CHEBI:17596,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference98,inosine,CHEBI:17596,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference45,(S)-lactate [ChEBI:16651],CHEBI:16651,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference45,L-lactate,CHEBI:16651,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference45,(S)-lactate,CHEBI:16651,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference147,biricodar,11741,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference147,biricodar [Guide to Pharmacology:11741],11741,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference152,laniquidar,6450806,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference152,laniquidar [PubChem Compound:6450806],6450806,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference112,ribavirin 5'-triphosphate(4-) [ChEBI:189093],CHEBI:189093,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference112,ribavirin 5'-triphosphate(4-),CHEBI:189093,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference61,3-hydroxysalicylate,CHEBI:36654,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference61,"2,3-dihydroxybenzoate [ChEBI:36654]",CHEBI:36654,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference61,"2,3-Dihydroxybenzoate",CHEBI:36654,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference61,2-pyrocatechuate,CHEBI:36654,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference61,catechol-3-carboxylate,CHEBI:36654,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference61,"2,3-dihydroxybenzoate",CHEBI:36654,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference37,GDP(3-) [ChEBI:58189],CHEBI:58189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference37,5'-O-[(phosphonatooxy)phosphinato]guanosine,CHEBI:58189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference37,guanosine 5'-diphosphate trianion,CHEBI:58189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference37,GDP(3-),CHEBI:58189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference37,GDP trianion,CHEBI:58189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference37,GDP,CHEBI:58189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference37,guanosine 5'-diphosphate(3-),CHEBI:58189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference37,guanosine 5'-diphosphate,CHEBI:58189,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference35,6 thiodeoxyguanosine diphosphate (3-) [ChEBI:180690],CHEBI:180690,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference35,6 thiodeoxyguanosine diphosphate (3-),CHEBI:180690,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference59,salicylic acyl beta-D-glucuronide (1-),CHEBI:176960,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference59,salicylic acyl beta-D-glucuronide (1-) [ChEBI:176960],CHEBI:176960,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference65,gentisyl-CoA,CHEBI:90176,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference65,"2,5-DHBA-CoA",CHEBI:90176,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference65,"2,5-dihydroxybenzoyl-CoA [ChEBI:90176]",CHEBI:90176,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference65,"3'-phosphoadenosine 5'-{3-[(3R)-4-{[3-({2-[(2,5-dihydroxybenzoyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}",CHEBI:90176,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference65,"2,5-dihydroxybenzoyl-CoA",CHEBI:90176,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference15,FAD trianion,CHEBI:57692,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference15,FAD(3-),CHEBI:57692,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference15,FAD(3-) [ChEBI:57692],CHEBI:57692,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference15,FAD,CHEBI:57692,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference155,20alpha-dihydroprednisone [ChEBI:182969],CHEBI:182969,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference155,20alpha-dihydroprednisone,CHEBI:182969,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference56,Source N-hydroxy-4-aminobiphenyl glucuronide,CHEBI:32649,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference56,N-hydroxy-4-aminobiphenyl O-glucuronide [ChEBI:32649],CHEBI:32649,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference56,N-hydroxy-4-aminobiphenyl O-glucuronide,CHEBI:32649,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference70,3'-phosphonato-5'-adenylyl sulfate(4-),CHEBI:58339,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference70,3'-phosphonato-5'-adenylyl sulfate(4-) [ChEBI:58339],CHEBI:58339,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference7,6-methylthiopurine,CHEBI:28279,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference7,6-methylthiopurine [ChEBI:28279],CHEBI:28279,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference52,phenol [ChEBI:15882],CHEBI:15882,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference52,phenol,CHEBI:15882,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference74,NADPH,CHEBI:57783,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference74,NADPH(4-),CHEBI:57783,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference74,NADPH tetraanion,CHEBI:57783,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference74,"2'-O-phosphonatoadenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] diphosphate}",CHEBI:57783,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference74,NADPH(4-) [ChEBI:57783],CHEBI:57783,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference30,AMP dianion,CHEBI:456215,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference30,adenosine 5'-monophosphate(2-) [ChEBI:456215],CHEBI:456215,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference30,Adenosine-5-monophosphate dianion,CHEBI:456215,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference30,adenosine 5'-monophosphate(2-),CHEBI:456215,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference30,AMP,CHEBI:456215,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference30,Adenosine-5-monophosphate(2-),CHEBI:456215,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference30,5'-O-phosphonatoadenosine,CHEBI:456215,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference30,AMP(2-),CHEBI:456215,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference113,phosphate(3-) [ChEBI:18367],CHEBI:18367,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference113,phosphate(3-),CHEBI:18367,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference105,"(2S,3S,4S,5R)-3,4,5,6-tetrahydroxytetrahydro-2H-pyran-2-carboxylate",CHEBI:58720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference105,D-glucopyranuronate [ChEBI:58720],CHEBI:58720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference105,D-glucopyranuronate,CHEBI:58720,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference3,GS-nitroimidazole [ChEBI:180931],CHEBI:180931,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference3,GS-nitroimidazole,CHEBI:180931,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference111,ribavirin 5'-diphosphate(3-),CHEBI:189092,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference111,ribavirin 5'-diphosphate(3-) [ChEBI:189092],CHEBI:189092,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference164,sulfociprofloxacin [ChEBI:192798],CHEBI:192798,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference164,sulfociprofloxacin,CHEBI:192798,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference14,molybdopterin [ChEBI:44074],CHEBI:44074,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference14,molybdopterin,CHEBI:44074,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference94,carbovir monophosphate [PubChem Compound:135565291],135565291,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference94,carbovir monophosphate,135565291,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference64,"3'-phosphonatoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-({3-oxo-3-[(2-sulfanylethyl)amino]propyl}amino)butyl] diphosphate}",CHEBI:57287,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference64,coenzyme A(4-) [ChEBI:57287],CHEBI:57287,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference64,CoA,CHEBI:57287,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference64,coenzyme A(4-),CHEBI:57287,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference108,calcium(2+) [ChEBI:29108],CHEBI:29108,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference108,calcium(2+),CHEBI:29108,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference40,(S)-lactic acid [ChEBI:422],CHEBI:422,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference40,(S)-lactic acid,CHEBI:422,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference22,atp,CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference22,ATP(4-),CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference22,ATP(4-) [ChEBI:30616],CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference22,ATP,CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference22,Adenosine 5'-triphosphate,CHEBI:30616,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference104,atorvastatin lactone [Guide to Pharmacology:2957],2957,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference104,atorvastatin lactone,2957,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference148,tariquidar [PubChem Compound:148201],148201,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference148,tariquidar,148201,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference103,p-hydroxyatorvastatin,7359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference103,p-hydroxyatorvastatin [Guide to Pharmacology:7359],7359,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference43,"2-oxopropanoic acid, ion(1-)",CHEBI:15361,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference43,2-oxopropanoate,CHEBI:15361,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference43,pyruvate [ChEBI:15361],CHEBI:15361,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference43,pyruvate,CHEBI:15361,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference143,Securon&reg;,2406,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference143,Ansyr&reg;,2406,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference143,CP-165331 /  CP-16533-1,2406,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference143,verapamil [Guide to Pharmacology:2406],2406,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference143,verapamil,2406,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference125,Cerubidine&reg;,7063,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference125,daunomycin,7063,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference125,daunorubicin [Guide to Pharmacology:7063],7063,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference125,RP-13057,7063,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference125,FI-6339,7063,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference125,daunorubicin,7063,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference125,NDC-0082-4155,7063,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference82,Paracetamol-Cys-Gly conjugate [ChEBI:180460],CHEBI:180460,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference82,Paracetamol-Cys-Gly conjugate,CHEBI:180460,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference139,M-39831,7301,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference139,temozolomide [Guide to Pharmacology:7301],7301,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference139,Temodar&reg;,7301,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference139,temozolomide,7301,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference139,CCRG-81045,7301,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference139,Temodal&reg;,7301,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,C3H7NO2S,CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,L-cysteine,CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,L-cysteine zwitterion,CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,(2R)-2-ammonio-3-sulfanylpropanoate,CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,[NH3+][C@@H](CS)C([O-])=O,CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,L-cysteine zwitterion [ChEBI:35235],CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,"InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1",CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,XUJNEKJLAYXESH-REOHCLBHSA-N,CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,(2R)-2-ammonio-3-mercaptopropanoate,CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference79,121.15922,CHEBI:35235,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference157,20alpha-dihydroprednisolone [ChEBI:166776],CHEBI:166776,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference157,20alpha-dihydroprednisolone,CHEBI:166776,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,hydrogen L-glutamate,CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,L-glutamate(1-),CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,WHUUTDBJXJRKMK-VKHMYHEASA-M,CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,(2S)-2-ammoniopentanedioate,CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,C5H8NO4,CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/p-1/t3-/m0/s1",CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,L-glutamic acid monoanion,CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,[NH3+][C@@H](CCC([O-])=O)C([O-])=O,CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,"L-glutamic acid, ion(1-)",CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,146.12136,CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,L-glutamate,CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference
+http://www.reactome.org/biopax/96/9748784#SmallMoleculeReference31,L-glutamate(1-) [ChEBI:29985],CHEBI:29985,http://www.biopax.org/release/biopax-level3.owl#SmallMoleculeReference

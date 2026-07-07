@@ -1,0 +1,10 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/1474165#ProteinReference107,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6
+http://www.reactome.org/biopax/96/1474165#ProteinReference109,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference7
+http://www.reactome.org/biopax/96/1474165#ProteinReference102,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6
+http://www.reactome.org/biopax/96/1474165#ProteinReference104,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6
+http://www.reactome.org/biopax/96/1474165#ProteinReference108,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6
+http://www.reactome.org/biopax/96/1474165#ProteinReference103,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6
+http://www.reactome.org/biopax/96/1474165#ProteinReference106,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6
+http://www.reactome.org/biopax/96/1474165#ProteinReference13,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference2
+http://www.reactome.org/biopax/96/1474165#ProteinReference105,abstraction:ControlsProductionOf,http://www.reactome.org/biopax/96/1474165#SmallMoleculeReference6

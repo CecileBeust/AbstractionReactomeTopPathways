@@ -1,0 +1,9 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference37,abstraction:ChemicalAffects,http://www.reactome.org/biopax/96/8963743#ProteinReference19
+http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference6,abstraction:ChemicalAffects,http://www.reactome.org/biopax/96/8963743#ProteinReference1
+http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference9,abstraction:ChemicalAffects,http://www.reactome.org/biopax/96/8963743#ProteinReference1
+http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference7,abstraction:ChemicalAffects,http://www.reactome.org/biopax/96/8963743#ProteinReference1
+http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference10,abstraction:ChemicalAffects,http://www.reactome.org/biopax/96/8963743#ProteinReference1
+http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference36,abstraction:ChemicalAffects,http://www.reactome.org/biopax/96/8963743#ProteinReference19
+http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference11,abstraction:ChemicalAffects,http://www.reactome.org/biopax/96/8963743#ProteinReference1
+http://www.reactome.org/biopax/96/8963743#SmallMoleculeReference8,abstraction:ChemicalAffects,http://www.reactome.org/biopax/96/8963743#ProteinReference1

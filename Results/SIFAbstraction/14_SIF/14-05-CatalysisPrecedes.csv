@@ -1,0 +1,11 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/74160#ProteinReference914,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference917
+http://www.reactome.org/biopax/96/74160#ProteinReference604,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference605
+http://www.reactome.org/biopax/96/74160#ProteinReference606,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference607
+http://www.reactome.org/biopax/96/74160#ProteinReference917,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference914
+http://www.reactome.org/biopax/96/74160#ProteinReference916,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference914
+http://www.reactome.org/biopax/96/74160#ProteinReference915,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference914
+http://www.reactome.org/biopax/96/74160#ProteinReference607,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference606
+http://www.reactome.org/biopax/96/74160#ProteinReference914,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference916
+http://www.reactome.org/biopax/96/74160#ProteinReference914,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference915
+http://www.reactome.org/biopax/96/74160#ProteinReference603,abstraction:CatalysisPrecedes,http://www.reactome.org/biopax/96/74160#ProteinReference604

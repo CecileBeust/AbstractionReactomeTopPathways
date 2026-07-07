@@ -1,0 +1,10 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/69306#ProteinReference121,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference5
+http://www.reactome.org/biopax/96/69306#ProteinReference125,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference38
+http://www.reactome.org/biopax/96/69306#ProteinReference124,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference5
+http://www.reactome.org/biopax/96/69306#ProteinReference103,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference38
+http://www.reactome.org/biopax/96/69306#ProteinReference126,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference38
+http://www.reactome.org/biopax/96/69306#ProteinReference122,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference5
+http://www.reactome.org/biopax/96/69306#ProteinReference123,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference5
+http://www.reactome.org/biopax/96/69306#ProteinReference120,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference38
+http://www.reactome.org/biopax/96/69306#ProteinReference119,abstraction:ControlsStateChangeOf,http://www.reactome.org/biopax/96/69306#ProteinReference38

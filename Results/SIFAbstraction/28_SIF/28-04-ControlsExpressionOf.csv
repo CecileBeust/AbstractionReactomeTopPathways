@@ -1,0 +1,6 @@
+Source,Interaction,Target
+http://www.reactome.org/biopax/96/382551#ProteinReference663,abstraction:ControlsExpressionOf,http://www.reactome.org/biopax/96/382551#ProteinReference667
+http://www.reactome.org/biopax/96/382551#ProteinReference663,abstraction:ControlsExpressionOf,http://www.reactome.org/biopax/96/382551#ProteinReference644
+http://www.reactome.org/biopax/96/382551#ProteinReference663,abstraction:ControlsExpressionOf,http://www.reactome.org/biopax/96/382551#ProteinReference646
+http://www.reactome.org/biopax/96/382551#ProteinReference663,abstraction:ControlsExpressionOf,http://www.reactome.org/biopax/96/382551#ProteinReference280
+http://www.reactome.org/biopax/96/382551#ProteinReference663,abstraction:ControlsExpressionOf,http://www.reactome.org/biopax/96/382551#ProteinReference666
