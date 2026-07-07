@@ -1,0 +1,7 @@
+subPathwayID,interaction,pathwayID
+R-HSA-2173791,abstraction:IsAComponentOf,R-HSA-170834
+R-HSA-2173793,abstraction:IsAComponentOf,R-HSA-170834
+R-HSA-2173789,abstraction:IsAComponentOf,R-HSA-170834
+R-HSA-2173795,abstraction:IsAComponentOf,R-HSA-2173793
+R-HSA-2173796,abstraction:IsAComponentOf,R-HSA-2173793
+R-HSA-2173788,abstraction:IsAComponentOf,R-HSA-2173789

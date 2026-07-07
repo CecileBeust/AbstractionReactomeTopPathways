@@ -1,0 +1,16 @@
+pathwayID,interaction,nextPathwayID
+R-HSA-2173796,abstraction:NextStepPathway,R-HSA-2173795
+R-HSA-2173796,abstraction:NextStepPathway,R-HSA-1502540
+R-HSA-2173795,abstraction:NextStepPathway,R-HSA-2173796
+R-HSA-2173795,abstraction:NextStepPathway,R-HSA-2173788
+R-HSA-1502540,abstraction:NextStepPathway,R-HSA-2173796
+R-HSA-1502540,abstraction:NextStepPathway,R-HSA-2173795
+R-HSA-1502540,abstraction:NextStepPathway,R-HSA-2173789
+R-HSA-9839383,abstraction:NextStepPathway,R-HSA-9839397
+R-HSA-9839383,abstraction:NextStepPathway,R-HSA-9839389
+R-HSA-9839383,abstraction:NextStepPathway,R-HSA-9839406
+R-HSA-2173789,abstraction:NextStepPathway,R-HSA-2173796
+R-HSA-2173789,abstraction:NextStepPathway,R-HSA-2173788
+R-HSA-2173789,abstraction:NextStepPathway,R-HSA-1502540
+R-HSA-2173789,abstraction:NextStepPathway,R-HSA-2173791
+R-HSA-9839394,abstraction:NextStepPathway,R-HSA-9839383
