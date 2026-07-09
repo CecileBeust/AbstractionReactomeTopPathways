@@ -10,7 +10,7 @@ def compute_similarity(Pathway1, Pathway2, dicoErperPathway, nbERTotal):
     else:
         nb_ER_MICA = 0
     if nb_ER_MICA != 0 and nb_ER_MICA != nbERTotal:
-        ic = -math.log(nb_ER_MICA/nbERTotal)
+        ic = -math.log10(nb_ER_MICA/nbERTotal)
     else:
         ic = 0
     return ic
@@ -37,7 +37,7 @@ def  find_ancestors_and_descendants(G, node, interaction):
 def compute_ic_er_pathway(pathway:str, dico_er_per_pathway:dict, nb_er_total:int):
     nb_er_pathway = len(dico_er_per_pathway[pathway])
     if len(dico_er_per_pathway[pathway]) != nb_er_total:
-        return -math.log(nb_er_pathway/nb_er_total)
+        return -math.log10(nb_er_pathway/nb_er_total)
     else:
         return 0
 

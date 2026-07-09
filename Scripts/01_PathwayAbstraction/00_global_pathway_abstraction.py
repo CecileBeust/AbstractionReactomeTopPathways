@@ -8,7 +8,7 @@ from utility import *
 
 current_directory = os.getcwd()
 BioPAX_Ontology_file_path = os.path.join(current_directory, 'Data/BioPAX/BioPAXOntology/biopax-level3.owl')
-results_dir = os.path.join(current_directory, 'Results/PathwayAbstraction/Reactome96Global')
+results_dir = os.path.join(current_directory, 'Results/PathwayAbstraction/02_Reactome96Global')
 
 os.makedirs(results_dir, exist_ok=True)
 
@@ -208,10 +208,10 @@ try:
     print(f"Results saved in {output_filename}")
 except Exception as e:
     print(f"Error in IsAComponentOf SPARQL query: {e}")
-iscomponentof = pd.read_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_IsAComponentOf.csv", sep=",", header=0)
+iscomponentof = pd.read_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_IsAComponentOf.csv", sep=",", header=0)
 new_col = ["abstraction:IsAComponentOf"]*len(iscomponentof)
 iscomponentof.insert(loc=1, column="interaction", value=new_col)
-iscomponentof.to_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_IsAComponentOf.csv", sep=",", header=True, index=False)
+iscomponentof.to_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_IsAComponentOf.csv", sep=",", header=True, index=False)
 
 sparql.setQuery(prefixes + query_next_step_pathway)
 sparql.setReturnFormat(CSV)
@@ -224,10 +224,10 @@ try:
 except Exception as e:
     print(f"Error in NextStepPathway query: {e}")
 
-nextsteppathway = pd.read_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_NextStepPathway.csv", sep=",", header=0)
+nextsteppathway = pd.read_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_NextStepPathway.csv", sep=",", header=0)
 new_col = ["abstraction:NextStepPathway"]*len(nextsteppathway)
 nextsteppathway.insert(loc=1, column="interaction", value=new_col)
-nextsteppathway.to_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_NextStepPathway.csv", sep=",", header=True, index=False)
+nextsteppathway.to_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_NextStepPathway.csv", sep=",", header=True, index=False)
 
 try:
     q1 = pd.read_csv(os.path.join(results_dir, f"{name}_IsAComponentOf.csv"), header=None)
@@ -264,8 +264,8 @@ try:
 except Exception as e:
     print(f"Error: {e}")
 
-isacomponentof = pd.read_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_IsAComponentOf.csv", sep=',', header=0)
-nextsteppathway = pd.read_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_NextStepPathway.csv", sep=',', header=0)
+isacomponentof = pd.read_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_IsAComponentOf.csv", sep=',', header=0)
+nextsteppathway = pd.read_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_NextStepPathway.csv", sep=',', header=0)
 G = create_networkx_graph(isacomponentof)
 root = [node for node in G.nodes() if G.out_degree(node) == 0]
 
@@ -309,7 +309,7 @@ for index, row in isacomponentof.iterrows():
     weighted_graph.at[counter_rows, 'weight'] = weight
     counter_rows += 1
 
-weighted_graph.to_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_IsAComponentOf_ResnikER.csv", sep=",", header=True, index=False)
+weighted_graph.to_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_IsAComponentOf_ResnikER.csv", sep=",", header=True, index=False)
 
 process.kill()
 time.sleep(30)
@@ -338,17 +338,17 @@ for item, row in nextsteppathway.iterrows():
         weight = dico_next_step_er[key]
         weighted_graph.at[counter_rows, 'weight'] = weight
     counter_rows += 1
-weighted_graph.to_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_NextStepPathway_ERcontent.csv", sep=",", header=True, index=False)
+weighted_graph.to_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_NextStepPathway_ERcontent.csv", sep=",", header=True, index=False)
 
 # CONCATENATE GRAPHS
-weighted_is_a_component_of = pd.read_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_IsAComponentOf_ResnikER.csv", sep=",", header=0)
+weighted_is_a_component_of = pd.read_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_IsAComponentOf_ResnikER.csv", sep=",", header=0)
 print(weighted_is_a_component_of.head())
 
-weighted_next_step_pathway = pd.read_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_NextStepPathway_ERcontent.csv", sep=",", header=0)
+weighted_next_step_pathway = pd.read_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_NextStepPathway_ERcontent.csv", sep=",", header=0)
 print(weighted_next_step_pathway.head())
 
 global_abstraction = pd.concat([weighted_is_a_component_of, weighted_next_step_pathway], axis=0)
-global_abstraction.to_csv(f"Results/PathwayAbstraction/Reactome96Global/{name}_WeightedPathwayAbstraction.csv", sep=",", index=False)
+global_abstraction.to_csv(f"Results/PathwayAbstraction/02_Reactome96Global/{name}_WeightedPathwayAbstraction.csv", sep=",", index=False)
 
 
 process.kill()

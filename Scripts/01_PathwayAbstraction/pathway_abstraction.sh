@@ -15,10 +15,10 @@ python3 03_weight_pathway_abstraction.py
 
 # clean intermediate files (ONLY AFTER ALL SCRIPTS HAVE RUN)
 echo "Cleaning intermediate files..."
-rm -f ../../Results/PathwayAbstraction/*.tsv
-rm -f ../../Results/PathwayAbstraction/*IsAComponentOf.csv
-rm -f ../../Results/PathwayAbstraction/*NextStepPathway.csv
-rm -f ../../Results/PathwayAbstraction/*IsAComponentOf_ResnikER.csv
-rm -f ../../Results/PathwayAbstraction/*NextStepPathway_ERcontent.csv
+rm -f ../../Results/PathwayAbstraction/01_TopPathways/*.tsv
+rm -f ../../Results/PathwayAbstraction/01_TopPathways/*IsAComponentOf.csv
+rm -f ../../Results/PathwayAbstraction/01_TopPathways/*NextStepPathway.csv
+rm -f ../../Results/PathwayAbstraction/01_TopPathways/*IsAComponentOf_ResnikER.csv
+rm -f ../../Results/PathwayAbstraction/01_TopPathways/*NextStepPathway_ERcontent.csv
 
 echo "Done."
