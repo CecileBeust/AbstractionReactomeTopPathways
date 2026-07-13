@@ -11,7 +11,7 @@ import glob
 current_directory = os.getcwd()
 BioPAX_Ontology_file_path = os.path.join(current_directory, 'Data/BioPAX/BioPAXOntology/biopax-level3.owl')
 ReactomeBioPAX_file_path = os.path.join(current_directory, 'Data/BioPAX/ReactomeTopPathways')
-results_dir = os.path.join(current_directory, 'Results/PathwayComembership/ComembershipCliques')
+results_dir = os.path.join(current_directory, 'Results/PathwayComembership/01_ComembershipCliques')
 
 os.makedirs(results_dir, exist_ok=True)
 
@@ -44,8 +44,8 @@ WHERE {
 
 endpoint = "http://localhost:3030/top_pathway"
 counter = 19
-#filelist = glob.glob(os.path.join(ReactomeBioPAX_file_path, '*.xml'))
-filelist = glob.glob(os.path.join(ReactomeBioPAX_file_path, '01_Autophagy.xml'))
+filelist = glob.glob(os.path.join(ReactomeBioPAX_file_path, '*.xml'))
+#filelist = glob.glob(os.path.join(ReactomeBioPAX_file_path, '01_Autophagy.xml'))
 
 for owl_file in sorted(filelist):
     start_time = time.time()
