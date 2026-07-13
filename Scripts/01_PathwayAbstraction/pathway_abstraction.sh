@@ -6,8 +6,8 @@ echo "[1/3] Running pathway abstraction..."
 python3 01_pathway_abstraction_reactome.py
 
 # get uniprot ids per pathway
-echo "[2/3] Getting UniProt IDs per pathway..."
-python3 02_uniprot_per_pathways.py
+#echo "[2/3] Getting UniProt IDs per pathway..."
+#python3 02_uniprot_per_pathways.py
 
 # weight pathway-centered abstraction
 echo "[3/3] Weighting pathway abstraction..."

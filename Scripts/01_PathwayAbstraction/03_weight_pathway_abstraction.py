@@ -66,7 +66,7 @@ dico_top_pathway_ids = {
     "29": "VesicleMediatedTransport"
 }
 
-for counter in range(29,30):
+for counter in range(1,30):
     biopax = f"../../Data/BioPAX/ReactomeTopPathways/{counter:02d}_{dico_top_pathway_ids[str(counter)]}.xml"
     isacomponentof = pd.read_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_IsAComponentOf.csv", sep=',', header=0)
     nextsteppathway = pd.read_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_NextStepPathway.csv", sep=',', header=0)
@@ -163,4 +163,4 @@ for counter in range(29,30):
     print(weighted_next_step_pathway.head())
 
     global_abstraction = pd.concat([weighted_is_a_component_of, weighted_next_step_pathway], axis=0)
-    global_abstraction.to_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_WeightedPathwayAbstraction.csv", sep=",", index=False)
+    global_abstraction.to_csv(f"../../Results/PathwayAbstraction/{counter:02d}_WeightedPathwayAbstraction.csv", sep=",", index=False)
