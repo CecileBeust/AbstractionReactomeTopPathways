@@ -136,6 +136,7 @@ def load_pathway_abstraction(counter: int) -> pd.DataFrame:
     """Load the weighted pathway-abstraction edge table for this pathway file."""
     return pd.read_csv(
         f"Results/PathwayAbstraction/01_TopPathways/{counter:02d}_WeightedPathwayAbstraction.csv",
+        #f"Results/PathwayAbstraction/01bis_TopPathwaysReactomeWeights/{counter:02d}_WeightedPathwayAbstraction.csv",
         sep=",", header=0,
     )
 
@@ -144,15 +145,15 @@ def load_entity_refs_per_pathway(counter: int) -> pd.DataFrame:
     """Load the (pathway, UniProt ID) table for this pathway file."""
     return pd.read_csv(
         f"Results/UtilityFiles/{counter:02d}_UpPerPathway.csv",
-        sep=",", header=0,
+        sep=",", header=0
     )
 
 
 def load_comembership_clique(counter: int) -> pd.DataFrame:
     """Load the precomputed entity co-membership clique table for this pathway file."""
     return pd.read_csv(
-        f"Results/PathwayComembership/01_ComembershipCliques/{counter:02d}_ComembershipClique.csv",
-        sep=",", header=0,
+        f"Results/PathwayComembership/01_ComembershipCliques/{counter:02d}_ComembershipCliqueCleaned.csv",
+        sep=",", header=0
     )
 
 
@@ -355,8 +356,16 @@ class ComembershipScorer:
         Return (score, provenance) for a pair of co-membered entities, or
         None if either entity has no known pathway parent.
         """
-        if entity1 not in self.dico_most_precise_parent or entity2 not in self.dico_most_precise_parent:
-            return None
+        if (entity1 not in self.dico_most_precise_parent) or (entity2 not in self.dico_most_precise_parent):
+            #print(entity1, entity2)
+            score = 0
+            matrix_mica[(entity1, entity2)] = 0
+            matrix_mica[(entity2, entity1)] = 0
+            matrix_mica_reactome[(entity1, entity2)] = 0
+            matrix_mica_reactome[(entity2, entity1)] = 0
+            matrix_nsp[(entity1, entity2)] = 0
+            matrix_nsp[(entity2, entity1)] = 0
+            return score, "scoreNonDetermined"
 
         parents1, ancestor_pathways1 = self._get_parents_and_ancestor_pathways(entity1)
         parents2, ancestor_pathways2 = self._get_parents_and_ancestor_pathways(entity2)
@@ -372,7 +381,10 @@ class ComembershipScorer:
 
         if mica_score >= next_step_score:
             return mica_score, "scoreMICA"
-        return next_step_score, "scoreNextStep"
+        elif mica_score == next_step_score:
+            return mica_score, "scoreHybrid"
+        else:
+            return next_step_score, "scoreNextStep"
 
 
 def weight_comembership_clique(
@@ -382,9 +394,9 @@ def weight_comembership_clique(
     rows = []
     for entity1, entity2 in comembership_clique.iloc[:, [0, 1]].values:
         result = scorer.score_pair(entity1, entity2, matrix_mica, matrix_nsp, matrix_mica_reactome)
-        if result is not None:
-            score, provenance = result
-            rows.append([entity1, entity2, score, provenance])
+        #if result is not None:
+        score, provenance = result
+        rows.append([entity1, entity2, score, provenance])
 
     weighted = pd.DataFrame(rows, columns=["entity1", "entity2", "scoreComembership", "provenanceScore"])
     return weighted.sort_values(by="scoreComembership", ascending=False)
@@ -456,7 +468,6 @@ def process_pathway_file(owl_file: str, counter: int) -> None:
         dico_most_precise_parent = build_most_precise_parent_map(
             dico_parents_up, shortest_path_len_from_root
         )
-        print(dico_most_precise_parent)
 
         # 6. Weight the co-membership clique.
         comembership_clique = load_comembership_clique(counter)
@@ -485,9 +496,9 @@ def main() -> None:
     os.makedirs(SCORES_DIR, exist_ok=True)
     os.makedirs(WEIGHTED_CLIQUES_DIR, exist_ok=True)
 
-    filelist = sorted(glob.glob(os.path.join(REACTOME_TOP_PATHWAYS_DIR, "*.xml")))
-    #filelist = sorted(glob.glob(os.path.join(REACTOME_TOP_PATHWAYS_DIR, "01_Autophagy.xml")))
-    for counter, owl_file in enumerate(filelist, start=1):
+    #filelist = sorted(glob.glob(os.path.join(REACTOME_TOP_PATHWAYS_DIR, "*.xml")))
+    filelist = sorted(glob.glob(os.path.join(REACTOME_TOP_PATHWAYS_DIR, "27_SignalTransduction.xml")))
+    for counter, owl_file in enumerate(filelist, start=27):
         process_pathway_file(owl_file, counter)
         counter += 1
 
