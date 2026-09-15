@@ -11,28 +11,13 @@ current_directory = os.getcwd()
 results_dir = os.path.join(current_directory, '../../Results/PathwayAbstraction/01_TopPathways/')
 BioPAX_Ontology_file_path = os.path.join(current_directory, '../../Data/BioPAX/BioPAXOntology/biopax-level3.owl')
 ReactomeBioPAX_file_path = os.path.join(current_directory, '../../Data/BioPAX/ReactomeTopPathways')
+ReactomeBioPAX = os.path.join(current_directory, '../../Data/BioPAX/ReactomeBioPAX/Homo_sapiens_v96.owl')
+print(current_directory)
+print(ReactomeBioPAX)
+print(BioPAX_Ontology_file_path)
 
-prefixes = """
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-PREFIX bp3: <http://www.biopax.org/release/biopax-level3.owl#>
-"""
-
-query = """
-SELECT (COUNT(DISTINCT ?id) AS ?nbID)
-WHERE {
-VALUES ?db { "UniProt" "UniProt Isoform" }
-?entityRef rdf:type/(rdfs:subClassOf*) bp3:ProteinReference .
-?entityRef bp3:xref ?entityRefXref .
-?entityRefXref bp3:db ?db .
-?entityRefXref bp3:id ?id .
-}
-"""
-endpoint = "http://localhost:3030/top_pathway"
-
-biopax_filelist = glob.glob(os.path.join(ReactomeBioPAX_file_path, '*.xml'))
-abstraction_filelist = glob.glob(os.path.join(results_dir, '*IsAComponentOf.csv'))
+# biopax_filelist = glob.glob(os.path.join(ReactomeBioPAX_file_path, '*.xml'))
+# abstraction_filelist = glob.glob(os.path.join(results_dir, '*IsAComponentOf.csv'))
 
 dico_top_pathway_ids = {
     "1": "Autophagy",
@@ -66,6 +51,46 @@ dico_top_pathway_ids = {
     "29": "VesicleMediatedTransport"
 }
 
+#####################################################################################
+
+prefixes = """
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX bp3: <http://www.biopax.org/release/biopax-level3.owl#>
+"""
+
+query = """
+SELECT (COUNT(DISTINCT ?id) AS ?nbID)
+WHERE {
+    VALUES ?db { "UniProt" "UniProt Isoform" }
+    ?entityRef rdf:type/(rdfs:subClassOf*) bp3:ProteinReference .
+    ?entityRef bp3:xref ?entityRefXref .
+    ?entityRefXref bp3:db ?db .
+    ?entityRefXref bp3:id ?id .
+}
+"""
+endpoint = "http://localhost:3030/reactome"
+
+command = [
+    '/home/cbeust/Softwares/JenaFuseki/apache-jena-fuseki-4.9.0/fuseki-server',
+    '--file', ReactomeBioPAX,
+    '--file', BioPAX_Ontology_file_path,
+    '/reactome'
+]
+print(command)
+process = subprocess.Popen(command)
+time.sleep(30)
+sparql = SPARQLWrapper(endpoint)
+sparql.setQuery(prefixes + query)
+sparql.setReturnFormat(JSON)
+results = sparql.query().convert()
+nbEr_total = int(results["results"]["bindings"][0]["nbID"]["value"])
+time.sleep(30)
+print(nbEr_total)
+
+##################################################################################################
+
 for counter in range(1,30):
     biopax = f"../../Data/BioPAX/ReactomeTopPathways/{counter:02d}_{dico_top_pathway_ids[str(counter)]}.xml"
     isacomponentof = pd.read_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_IsAComponentOf.csv", sep=',', header=0)
@@ -85,22 +110,22 @@ for counter in range(1,30):
         else:
             dico_er_per_pathway[pathway] += [id]
 
-    command = [
-        '/home/cbeust/Softwares/JenaFuseki/apache-jena-fuseki-4.9.0/fuseki-server',
-        '--file', biopax,
-        '--file', BioPAX_Ontology_file_path,
-        '/top_pathway'
-    ]
-    print("Fuseki command:", command)
+    # command = [
+    #     '/home/cbeust/Softwares/JenaFuseki/apache-jena-fuseki-4.9.0/fuseki-server',
+    #     '--file', biopax,
+    #     '--file', BioPAX_Ontology_file_path,
+    #     '/top_pathway'
+    # ]
+    # print("Fuseki command:", command)
 
-    process = subprocess.Popen(command)
-    time.sleep(30)
-    sparql = SPARQLWrapper(endpoint)
-    sparql.setQuery(prefixes + query)
-    sparql.setReturnFormat(JSON)
-    results = sparql.query().convert()
-    nbEr_total = int(results["results"]["bindings"][0]["nbID"]["value"])
-    print(nbEr_total)
+    # process = subprocess.Popen(command)
+    # time.sleep(30)
+    # sparql = SPARQLWrapper(endpoint)
+    # sparql.setQuery(prefixes + query)
+    # sparql.setReturnFormat(JSON)
+    # results = sparql.query().convert()
+    # nbEr_total = int(results["results"]["bindings"][0]["nbID"]["value"])
+    # print(nbEr_total)
 
     dico_isacomponentof_resnik_er = dict()
     for index, row in isacomponentof.iterrows():
@@ -124,10 +149,7 @@ for counter in range(1,30):
         weighted_graph.at[counter_rows, 'weight'] = weight
         counter_rows += 1
 
-    weighted_graph.to_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_IsAComponentOf_ResnikER.csv", sep=",", header=True, index=False)
-
-    process.kill()
-    time.sleep(30)
+    weighted_graph.to_csv(f"../../Results/PathwayAbstraction/01bis_TopPathwaysReactomeWeights/{counter:02d}_IsAComponentOf_ResnikER.csv", sep=",", header=True, index=False)
 
     # WEIGHT NEXTSTEPPATHWAY EDGES
     dico_next_step_er = dict()
@@ -153,14 +175,16 @@ for counter in range(1,30):
             weight = dico_next_step_er[key]
             weighted_graph.at[counter_rows, 'weight'] = weight
         counter_rows += 1
-    weighted_graph.to_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_NextStepPathway_ERcontent.csv", sep=",", header=True, index=False)
+    weighted_graph.to_csv(f"../../Results/PathwayAbstraction/01bis_TopPathwaysReactomeWeights/{counter:02d}_NextStepPathway_ERcontent.csv", sep=",", header=True, index=False)
 
     # CONCATENATE GRAPHS
-    weighted_is_a_component_of = pd.read_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_IsAComponentOf_ResnikER.csv", sep=",", header=0)
+    weighted_is_a_component_of = pd.read_csv(f"../../Results/PathwayAbstraction/01bis_TopPathwaysReactomeWeights/{counter:02d}_IsAComponentOf_ResnikER.csv", sep=",", header=0)
     print(weighted_is_a_component_of.head())
 
-    weighted_next_step_pathway = pd.read_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_NextStepPathway_ERcontent.csv", sep=",", header=0)
+    weighted_next_step_pathway = pd.read_csv(f"../../Results/PathwayAbstraction/01bis_TopPathwaysReactomeWeights/{counter:02d}_NextStepPathway_ERcontent.csv", sep=",", header=0)
     print(weighted_next_step_pathway.head())
 
     global_abstraction = pd.concat([weighted_is_a_component_of, weighted_next_step_pathway], axis=0)
-    global_abstraction.to_csv(f"../../Results/PathwayAbstraction/01_TopPathways/{counter:02d}_WeightedPathwayAbstraction.csv", sep=",", index=False)
+    global_abstraction.to_csv(f"../../Results/PathwayAbstraction/01bis_TopPathwaysReactomeWeights/{counter:02d}_WeightedPathwayAbstraction.csv", sep=",", index=False)
+    os.remove(f"../../Results/PathwayAbstraction/01bis_TopPathwaysReactomeWeights/{counter:02d}_IsAComponentOf_ResnikER.csv")
+    os.remove(f"../../Results/PathwayAbstraction/01bis_TopPathwaysReactomeWeights/{counter:02d}_NextStepPathway_ERcontent.csv")
