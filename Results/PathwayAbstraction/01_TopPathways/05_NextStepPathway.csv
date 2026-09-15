@@ -1,0 +1,4 @@
+pathwayID,interaction,nextPathwayID
+R-HSA-9933939,abstraction:NextStepPathway,R-HSA-9933947
+R-HSA-9937850,abstraction:NextStepPathway,R-HSA-9940951
+R-HSA-9933946,abstraction:NextStepPathway,R-HSA-9934037

@@ -1,0 +1,9 @@
+source,interaction,target,weight
+R-HSA-1300642,abstraction:IsAComponentOf,R-HSA-1187000,0.6888303729851389
+R-HSA-2534343,abstraction:IsAComponentOf,R-HSA-1187000,0.6888303729851389
+R-HSA-1300645,abstraction:IsAComponentOf,R-HSA-1187000,0.6888303729851389
+R-HSA-912446,abstraction:IsAComponentOf,R-HSA-1500620,0.1544137143110441
+R-HSA-1221632,abstraction:IsAComponentOf,R-HSA-1500620,0.1544137143110441
+R-HSA-1187000,abstraction:IsAComponentOf,R-HSA-1474165,0
+R-HSA-9827857,abstraction:IsAComponentOf,R-HSA-1474165,0
+R-HSA-1500620,abstraction:IsAComponentOf,R-HSA-1474165,0

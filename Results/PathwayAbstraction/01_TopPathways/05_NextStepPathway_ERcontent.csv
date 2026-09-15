@@ -1,0 +1,4 @@
+source,interaction,target,weight
+R-HSA-9933939,abstraction:NextStepPathway,R-HSA-9933947,1.1760912590556813
+R-HSA-9937850,abstraction:NextStepPathway,R-HSA-9940951,0.7249057384304185
+R-HSA-9933946,abstraction:NextStepPathway,R-HSA-9934037,1.1398790864012365

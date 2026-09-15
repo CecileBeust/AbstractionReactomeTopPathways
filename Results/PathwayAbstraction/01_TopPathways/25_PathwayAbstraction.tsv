@@ -1,0 +1,10 @@
+R-HSA-1300642,abstraction:IsAComponentOf,R-HSA-1187000
+R-HSA-2534343,abstraction:IsAComponentOf,R-HSA-1187000
+R-HSA-1300645,abstraction:IsAComponentOf,R-HSA-1187000
+R-HSA-912446,abstraction:IsAComponentOf,R-HSA-1500620
+R-HSA-1221632,abstraction:IsAComponentOf,R-HSA-1500620
+R-HSA-1187000,abstraction:IsAComponentOf,R-HSA-1474165
+R-HSA-9827857,abstraction:IsAComponentOf,R-HSA-1474165
+R-HSA-1500620,abstraction:IsAComponentOf,R-HSA-1474165
+R-HSA-2534343,abstraction:NextStepPathway,R-HSA-1300645
+R-HSA-912446,abstraction:NextStepPathway,R-HSA-1221632

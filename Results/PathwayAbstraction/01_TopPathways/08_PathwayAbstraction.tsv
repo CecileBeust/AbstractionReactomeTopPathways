@@ -1,0 +1,8 @@
+R-HSA-192456,abstraction:IsAComponentOf,R-HSA-8935690
+R-HSA-189085,abstraction:IsAComponentOf,R-HSA-8935690
+R-HSA-8981373,abstraction:IsAComponentOf,R-HSA-8963676
+R-HSA-8963678,abstraction:IsAComponentOf,R-HSA-8963676
+R-HSA-8935690,abstraction:IsAComponentOf,R-HSA-8963743
+R-HSA-8963676,abstraction:IsAComponentOf,R-HSA-8963743
+R-HSA-192456,abstraction:NextStepPathway,R-HSA-8963678
+R-HSA-189085,abstraction:NextStepPathway,R-HSA-8981373

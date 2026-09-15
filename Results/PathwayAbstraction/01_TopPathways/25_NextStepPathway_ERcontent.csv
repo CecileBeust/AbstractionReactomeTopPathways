@@ -1,0 +1,3 @@
+source,interaction,target,weight
+R-HSA-2534343,abstraction:NextStepPathway,R-HSA-1300645,0.8733547995776829
+R-HSA-912446,abstraction:NextStepPathway,R-HSA-1221632,0.1544137143110441
