@@ -296,7 +296,10 @@ for index, row in isacomponentof.iterrows():
         score = resnik_similarity_ER(G, root[0], pathway1, pathway2, dico_er_per_pathway, nbEr_total)
         key = f"{str(pathway1)}-<>{str(pathway2)}"
         dico_isacomponentof_resnik_er[key] = score
-print(dico_isacomponentof_resnik_er)
+#print(dico_isacomponentof_resnik_er)
+print(dico_er_per_pathway)
+print(dico_er_per_pathway["R-HSA-1483171"])
+print(compute_ic_er_pathway("R-HSA-1483171", dico_er_per_pathway, nbEr_total))
 
 weighted_graph = pd.DataFrame(columns=['source', 'interaction', 'target', 'weight'])
 counter_rows = 0

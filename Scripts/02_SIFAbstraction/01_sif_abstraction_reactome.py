@@ -36,11 +36,11 @@ CONSTRUCT {
     ?enzyme bp3:entityReference ?enzymeRef .
     ?enzymeRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
 
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?protLeft .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?protLeft .
     ?protLeft rdf:type bp3:Protein .
     ?protLeft bp3:entityReference ?protRef .
 
-    ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?protRight .
+    ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?protRight .
     ?protRight rdf:type bp3:Protein .
     ?protRight bp3:entityReference ?protRef .
     ?protRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
@@ -59,11 +59,11 @@ CONSTRUCT {
     }
     WHERE {
     ?reaction rdf:type/(rdfs:subClassOf*) bp3:Conversion .
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?protLeft .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?protLeft .
     ?protLeft rdf:type bp3:Protein .
     ?protLeft bp3:entityReference ?protRef .
 
-    ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?protRight .
+    ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?protRight .
     ?protRight rdf:type bp3:Protein .
     ?protRight bp3:entityReference ?protRef .
     ?protRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
@@ -96,11 +96,11 @@ WHERE {
     ?enzyme bp3:entityReference ?enzymeRef .
     ?enzymeRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
 
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?protLeft .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?protLeft .
     ?protLeft rdf:type bp3:Protein .
     ?protLeft bp3:entityReference ?protRef .
     
-    ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?protRight .
+    ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?protRight .
     ?protRight rdf:type bp3:Protein .
     ?protRight bp3:entityReference ?protRef .
     ?protRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
@@ -119,15 +119,15 @@ WHERE {
 query_controls_expression_of = """ 
 CONSTRUCT {
     ?enzymeRef abstraction:ControlsExpressionOf ?productRef
-    }
-    WHERE { 
+}
+WHERE { 
     # Case where the reaction is a Conversion
     {
         VALUES ?NucleicAcid { bp3:Dna bp3:Rna }
         ?reaction rdf:type/(rdfs:subClassOf*) bp3:Conversion .
-        ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?left .
+        ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?left .
         ?left rdf:type ?NucleicAcid .
-        ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?product .
+        ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?product .
         ?product rdf:type bp3:Protein .
         ?product bp3:entityReference ?productRef .
         ?productRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
@@ -142,7 +142,7 @@ CONSTRUCT {
     # Case where the reaction is a TemplateReaction
     {
         ?reaction rdf:type/(rdfs:subClassOf*) bp3:TemplateReaction .
-        ?reaction bp3:product/(bp3:memberPhysicalEntity)* ?product .
+        ?reaction bp3:product/((bp3:component|bp3:memberPhysicalEntity)*) ?product .
         ?product rdf:type bp3:Protein .
         ?product bp3:entityReference ?productRef .
         ?productRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
@@ -161,7 +161,7 @@ query_catalysis_precedes = """
 CONSTRUCT {
     ?enzymeRefA abstraction:CatalysisPrecedes ?enzymeRefB
     }
-    WHERE {
+WHERE {
     ?reaction1 rdf:type/(rdfs:subClassOf*) bp3:Conversion .
     ?reaction1 bp3:left ?leftMolecule1 .
     ?leftMolecule1 rdf:type bp3:SmallMolecule .
@@ -234,7 +234,7 @@ WHERE {
         ?complex rdf:type/(rdfs:subClassOf*) bp3:Complex .
         # Check for stoichiometry > 1
         ?complex bp3:componentStoichiometry ?stoich .
-        ?stoich bp3:physicalEntity ?entity1 .
+        ?stoich bp3:physicalEntity ?prot1 .
         ?stoich bp3:stoichiometricCoefficient ?coeff .
         FILTER (?coeff > 1)
         ?complex (bp3:component|bp3:memberPhysicalEntity)* ?prot1 .
@@ -251,9 +251,9 @@ WHERE {
 query_interacts_with = """  
 CONSTRUCT {
     ?participant1Ref abstraction:InteractsWith ?participant2Ref
-    }
-    WHERE {
-    VALUES ?participantType { bp3:Protein bp3:SmallMolecule }
+}
+WHERE {
+    VALUES ?participantType { bp3:Protein }
     ?MolecularInteraction rdf:type/(rdfs:subClassOf*) bp3:MolecularInteraction .
     ?MolecularInteraction bp3:participant/(bp3:memberPhysicalEntity)* ?participant1 .
     ?participant1 rdf:type ?participantType .
@@ -271,17 +271,17 @@ CONSTRUCT {
 query_neighbor_of = """ 
 CONSTRUCT {
     ?participant1Ref abstraction:NeighborOf ?participant2Ref
-    }
-    WHERE {
+}
+WHERE {
     ?reaction rdf:type/(rdfs:subClassOf*) bp3:Interaction .
 
-    ?reaction ((^bp3:controlled/bp3:controller)|bp3:left|bp3:right) ?participant1 .
+    ?reaction ((^bp3:controlled/bp3:controller)|bp3:left|bp3:right|bp3:participant) ?participant1 .
     ?participant1 (bp3:component|bp3:memberPhysicalEntity)* ?participant1Prot .
     ?participant1Prot rdf:type bp3:Protein .
     ?participant1Prot bp3:entityReference ?participant1Ref .
     ?participant1Ref rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
 
-    ?reaction ((^bp3:controlled/bp3:controller)|bp3:left|bp3:right) ?participant2 .
+    ?reaction ((^bp3:controlled/bp3:controller)|bp3:left|bp3:right|bp3:participant) ?participant2 .
     ?participant2 (bp3:component|bp3:memberPhysicalEntity)* ?participant2Prot .
     ?participant2Prot rdf:type bp3:Protein .
     ?participant2Prot bp3:entityReference ?participant2Ref .
@@ -294,10 +294,10 @@ CONSTRUCT {
 query_consumption_controled_by = """  
 CONSTRUCT {
     ?reactantRef abstraction:ConsumptionControlledBy ?enzymeRef
-    }
-    WHERE {
+}
+WHERE {
     ?reaction rdf:type/(rdfs:subClassOf*) bp3:Conversion .
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?reactant .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?reactant .
     ?reactant rdf:type bp3:SmallMolecule .
     ?reactant bp3:entityReference ?reactantRef .
     ?reactantRef rdf:type bp3:SmallMoleculeReference .
@@ -315,7 +315,7 @@ CONSTRUCT {
         "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
         "CHEBI:37565", "CHEBI:15996"))
 
-    ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?product .
+    ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?product .
     ?product rdf:type bp3:SmallMolecule .
     ?product bp3:entityReference ?productRef .
     ?productRef rdf:type bp3:SmallMoleculeReference .
@@ -347,10 +347,10 @@ CONSTRUCT {
 query_controls_production = """ 
 CONSTRUCT {
     ?enzymeRef abstraction:ControlsProductionOf ?productRef
-    }
-    WHERE {
+}
+WHERE {
     ?reaction rdf:type/(rdfs:subClassOf*) bp3:Conversion .
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?reactant .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?reactant .
     ?reactant rdf:type bp3:SmallMolecule .
     ?reactant bp3:entityReference ?reactantRef .
     ?reactantRef rdf:type bp3:SmallMoleculeReference .
@@ -368,7 +368,7 @@ CONSTRUCT {
         "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
         "CHEBI:37565", "CHEBI:15996"))
     
-    ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?product .
+    ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?product .
     ?product rdf:type bp3:SmallMolecule .
     ?product bp3:entityReference ?productRef .
     ?productRef rdf:type bp3:SmallMoleculeReference .
@@ -400,10 +400,11 @@ CONSTRUCT {
 query_controls_transport_of_chemical = """ 
 CONSTRUCT {
     ?enzymeRef abstraction:ControlsTransportOfChemical ?SmallMoleculeRef
-    }
-    WHERE {
+}
+WHERE {
     ?reaction rdf:type/(rdfs:subClassOf*) bp3:Conversion .
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?SmallMolecule1 .
+    #?reaction bp3:left/(bp3:memberPhysicalEntity)* ?SmallMolecule1 .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?SmallMolecule1 .
     ?SmallMolecule1 rdf:type bp3:SmallMolecule .
     ?SmallMolecule1 bp3:cellularLocation ?cellularLocVocab1 .
     ?SmallMolecule1 bp3:entityReference ?SmallMoleculeRef .
@@ -421,7 +422,8 @@ CONSTRUCT {
         "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
         "CHEBI:37565", "CHEBI:15996"))
 
-    ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?SmallMolecule2 . 
+    #?reaction bp3:right/(bp3:memberPhysicalEntity)* ?SmallMolecule2 . 
+    ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?SmallMolecule2 .
     ?SmallMolecule2 rdf:type bp3:SmallMolecule .
     ?SmallMolecule2 bp3:cellularLocation ?cellularLocVocab2 .
     ?SmallMolecule2 bp3:entityReference ?SmallMoleculeRef .
@@ -443,68 +445,70 @@ CONSTRUCT {
 query_chemical_affects = """  
 CONSTRUCT {
     ?chemicalCatalyzerRef abstraction:ChemicalAffects ?proteinRef .
-    }
-    WHERE {
+}
+WHERE {
     # the small molecule has an effect on the protein state through binding
     {
-        ?complex rdf:type bp3:Complex .
-        ?complex (bp3:component|bp3:memberPhysicalEntity)* ?proteinComponent .
-        ?proteinComponent rdf:type bp3:Protein .
-        # modification of the protein
-        ?proteinComponent bp3:feature ?feature .
-        ?feature rdf:type/(rdfs:subClassOf*) bp3:EntityFeature .
-        ?complex (bp3:component|bp3:memberPhysicalEntity)* ?chemicalCatalyzer .
-        ?chemicalCatalyzer rdf:type bp3:SmallMolecule .
-        ?chemicalCatalyzer bp3:entityReference ?chemicalCatalyzerRef .
-        ?chemicalCatalyzerRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
-        ?chemicalCatalyzerRef bp3:xref ?chemicalCatalyzerRefXref .
-        ?chemicalCatalyzerRefXref rdf:type bp3:UnificationXref .
-        ?chemicalCatalyzerRefXref bp3:db "ChEBI" .
-        ?chemicalCatalyzerRefXref bp3:id ?chemicalCatalyzerID .
-        FILTER (?chemicalCatalyzerID NOT IN ("CHEBI:15377", "CHEBI:24636", "CHEBI:15378", "CHEBI:15379", "CHEBI:57783",
-        "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
-        "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
-        "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
-        "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
-        "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
-        "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
-        "CHEBI:37565", "CHEBI:15996"))
-        BIND(?proteinComponent AS ?protein1)
+    ?complex rdf:type bp3:Complex .
+    ?complex (bp3:component|bp3:memberPhysicalEntity)* ?proteinComponent .
+    ?proteinComponent rdf:type bp3:Protein .
+    # modification of the protein
+    ?proteinComponent bp3:feature ?feature .
+    ?feature rdf:type/(rdfs:subClassOf*) bp3:EntityFeature .
+    ?complex (bp3:component|bp3:memberPhysicalEntity)* ?chemicalCatalyzer .
+    ?chemicalCatalyzer rdf:type bp3:SmallMolecule .
+    ?chemicalCatalyzer bp3:entityReference ?chemicalCatalyzerRef .
+    ?chemicalCatalyzerRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
+    ?chemicalCatalyzerRef bp3:xref ?chemicalCatalyzerRefXref .
+    ?chemicalCatalyzerRefXref rdf:type bp3:UnificationXref .
+    ?chemicalCatalyzerRefXref bp3:db "ChEBI" .
+    ?chemicalCatalyzerRefXref bp3:id ?chemicalCatalyzerID .
+    FILTER (?chemicalCatalyzerID NOT IN ("CHEBI:15377", "CHEBI:24636", "CHEBI:15378", "CHEBI:15379", "CHEBI:57783",
+    "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
+    "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
+    "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
+    "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
+    "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
+    "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
+    "CHEBI:37565", "CHEBI:15996"))
+    BIND(?proteinComponent AS ?protein)
     }
     UNION
     # the small molecule has an effect on the protein state by controlling a Conversion reaction
     {
-        ?reaction rdf:type/(rdfs:subClassOf*) bp3:Conversion .
-        ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?protLeft .
-        ?protLeft rdf:type bp3:Protein .
-        ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?protRight .
-        ?protRight rdf:type bp3:Protein .
+    ?reaction rdf:type/(rdfs:subClassOf*) bp3:Conversion .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?protLeft .
+    ?protLeft rdf:type bp3:Protein .
+    ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?protRight .
+    ?protRight rdf:type bp3:Protein .
+    ?protLeft bp3:entityReference ?protRef .
+    ?protRight bp3:entityReference ?protRef .
+    ?protRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
 
-        ?catalysis bp3:controlled ?reaction .
-        ?catalysis rdf:type/(rdfs:subClassOf*) bp3:Control .
-        ?catalysis bp3:controller ?chemicalCatalyzer .
-        ?chemicalCatalyzer rdf:type bp3:SmallMolecule .
-        ?chemicalCatalyzer bp3:entityReference ?chemicalCatalyzerRef .
-        ?chemicalCatalyzerRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
-        ?chemicalCatalyzerRef bp3:xref ?chemicalCatalyzerRefXref .
-        ?chemicalCatalyzerRefXref rdf:type bp3:UnificationXref .
-        ?chemicalCatalyzerRefXref bp3:db "ChEBI" .
-        ?chemicalCatalyzerRefXref bp3:id ?chemicalCatalyzerID .
-        FILTER (?chemicalCatalyzerID NOT IN ("CHEBI:15377", "CHEBI:24636", "CHEBI:15378", "CHEBI:15379", "CHEBI:57783",
-        "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
-        "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
-        "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
-        "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
-        "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
-        "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
-        "CHEBI:37565", "CHEBI:15996"))
+    ?catalysis bp3:controlled ?reaction .
+    ?catalysis rdf:type/(rdfs:subClassOf*) bp3:Control .
+    ?catalysis bp3:controller ?chemicalCatalyzer .
+    ?chemicalCatalyzer rdf:type bp3:SmallMolecule .
+    ?chemicalCatalyzer bp3:entityReference ?chemicalCatalyzerRef .
+    ?chemicalCatalyzerRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
+    ?chemicalCatalyzerRef bp3:xref ?chemicalCatalyzerRefXref .
+    ?chemicalCatalyzerRefXref rdf:type bp3:UnificationXref .
+    ?chemicalCatalyzerRefXref bp3:db "ChEBI" .
+    ?chemicalCatalyzerRefXref bp3:id ?chemicalCatalyzerID .
+    FILTER (?chemicalCatalyzerID NOT IN ("CHEBI:15377", "CHEBI:24636", "CHEBI:15378", "CHEBI:15379", "CHEBI:57783",
+    "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
+    "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
+    "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
+    "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
+    "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
+    "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
+    "CHEBI:37565", "CHEBI:15996"))
 
-        # modification of the protein
-        ?protRight bp3:feature ?feature .
-        ?feature rdf:type/(rdfs:subClassOf*) bp3:EntityFeature .
-        BIND(?protLeft AS ?protein2)
+    # modification of the protein
+    ?protRight bp3:feature ?feature .
+    ?feature rdf:type/(rdfs:subClassOf*) bp3:EntityFeature .
+    BIND(?protLeft AS ?protein)
     }
-    BIND(COALESCE(?protein1, ?protein2) AS ?protein)
     ?protein bp3:entityReference ?proteinRef .
     ?proteinRef rdf:type/(rdfs:subClassOf*) bp3:EntityReference .
 }
@@ -512,12 +516,12 @@ CONSTRUCT {
 
 query_reacts_with = """ 
 CONSTRUCT {
-    ?smallMolecule1Ref abstraction:ReactsWith ?smallMolecule2Ref .
-    }
-    WHERE {
+    ?smallMolecule1Ref abstraction:reactsWith ?smallMolecule2Ref .
+}
+WHERE {
     ?reaction rdf:type/(rdfs:subClassOf*) bp3:BiochemicalReaction .
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?smallMolecule1 .
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?smallMolecule2 .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?smallMolecule1 .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?smallMolecule2 .
     ?smallMolecule1 rdf:type bp3:SmallMolecule .
     ?smallMolecule1 bp3:entityReference ?smallMolecule1Ref .
     ?smallMolecule1Ref rdf:type bp3:SmallMoleculeReference .
@@ -526,13 +530,13 @@ CONSTRUCT {
     ?smallMolecule1RefXref bp3:db "ChEBI" .
     ?smallMolecule1RefXref bp3:id ?smallMolecule1ID .
     FILTER (?smallMolecule1ID NOT IN ("CHEBI:15377", "CHEBI:24636", "CHEBI:15378", "CHEBI:15379", "CHEBI:57783",
-        "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
-        "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
-        "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
-        "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
-        "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
-        "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
-        "CHEBI:37565", "CHEBI:15996"))
+    "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
+    "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
+    "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
+    "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
+    "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
+    "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
+    "CHEBI:37565", "CHEBI:15996"))
 
     ?smallMolecule2 rdf:type bp3:SmallMolecule .
     ?smallMolecule2 bp3:entityReference ?smallMolecule2Ref .
@@ -542,26 +546,25 @@ CONSTRUCT {
     ?smallMolecule2RefXref bp3:db "ChEBI" .
     ?smallMolecule2RefXref bp3:id ?smallMolecule2ID .
     FILTER (?smallMolecule2ID NOT IN ("CHEBI:15377", "CHEBI:24636", "CHEBI:15378", "CHEBI:15379", "CHEBI:57783",
-        "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
-        "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
-        "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
-        "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
-        "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
-        "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
-        "CHEBI:37565", "CHEBI:15996"))
+    "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
+    "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
+    "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
+    "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
+    "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
+    "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
+    "CHEBI:37565", "CHEBI:15996"))
 
     FILTER (?smallMolecule1Ref != ?smallMolecule2Ref)
-}
-"""
+}"""
 
 query_used_to_produce = """ 
 CONSTRUCT {
     ?smallMolecule1Ref abstraction:UsedToProduce ?smallMolecule2Ref .
-    }
-    WHERE {
+}
+WHERE {
     ?reaction rdf:type/(rdfs:subClassOf*) bp3:Conversion .
-    ?reaction bp3:left/(bp3:memberPhysicalEntity)* ?smallMolecule1 .
-    ?reaction bp3:right/(bp3:memberPhysicalEntity)* ?smallMolecule2 .
+    ?reaction bp3:left/((bp3:component|bp3:memberPhysicalEntity)*) ?smallMolecule1 .
+    ?reaction bp3:right/((bp3:component|bp3:memberPhysicalEntity)*) ?smallMolecule2 .
     ?smallMolecule1 rdf:type bp3:SmallMolecule .
     ?smallMolecule1 bp3:entityReference ?smallMolecule1Ref .
     ?smallMolecule1Ref rdf:type bp3:SmallMoleculeReference .
@@ -570,13 +573,13 @@ CONSTRUCT {
     ?smallMolecule1RefXref bp3:db "ChEBI" .
     ?smallMolecule1RefXref bp3:id ?smallMolecule1ID .
     FILTER (?smallMolecule1ID NOT IN ("CHEBI:15377", "CHEBI:24636", "CHEBI:15378", "CHEBI:15379", "CHEBI:57783",
-        "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
-        "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
-        "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
-        "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
-        "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
-        "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
-        "CHEBI:37565", "CHEBI:15996"))
+    "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
+    "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
+    "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
+    "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
+    "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
+    "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
+    "CHEBI:37565", "CHEBI:15996"))
 
     ?smallMolecule2 rdf:type bp3:SmallMolecule .
     ?smallMolecule2 bp3:entityReference ?smallMolecule2Ref .
@@ -586,17 +589,16 @@ CONSTRUCT {
     ?smallMolecule2RefXref bp3:db "ChEBI" .
     ?smallMolecule2RefXref bp3:id ?smallMolecule2ID .
     FILTER (?smallMolecule2ID NOT IN ("CHEBI:15377", "CHEBI:24636", "CHEBI:15378", "CHEBI:15379", "CHEBI:57783",
-        "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
-        "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
-        "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
-        "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
-        "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
-        "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
-        "CHEBI:37565", "CHEBI:15996"))
+    "CHEBI:13392", "CHEBI:16474", "CHEBI:58349", "CHEBI:18009", "CHEBI:13390",
+    "CHEBI:25523", "CHEBI:25524", "CHEBI:30616", "CHEBI:15422", "CHEBI:16761",
+    "CHEBI:456216", "CHEBI:57945", "CHEBI:16908", "CHEBI:57540", "CHEBI:15846",
+    "CHEBI:16526", "CHEBI:29888", "CHEBI:35782", "CHEBI:68836", "CHEBI:18361",
+    "CHEBI:43474", "CHEBI:35780", "CHEBI:18367", "CHEBI:26078", "CHEBI:77740",
+    "CHEBI:28931", "CHEBI:58307", "CHEBI:17877", "CHEBI:17552", "CHEBI:58189",
+    "CHEBI:37565", "CHEBI:15996"))
 
     FILTER (?smallMolecule1Ref != ?smallMolecule2Ref) 
-}
-"""
+}"""
 
 query_entity_refs="""
 SELECT DISTINCT ?entityRef ?entityRefName ?entityID ?entityRefType
@@ -714,12 +716,11 @@ for owl_file in sorted(filelist):
     for file in os.listdir(top_pathway_results_dir):
         results_files.append(file)
     aggregatedNetwork = pd.concat([pd.read_csv(os.path.join(top_pathway_results_dir, file), header=0, sep=",") for file in results_files]) 
-    print(aggregatedNetwork.head()) 
 
     identifier_mapping_file = pd.read_csv(os.path.join(results_dir, f"UtilityFiles/{counter:02d}-EntityRefsIDs.csv"), sep=",", header=0)
     dico_entity_ref = dict()
     for index, row in identifier_mapping_file.iterrows():
-        parts = row[0].split("#")
+        parts = row["entityRef"].split("#")
         ref = "reactome:" + parts[-1]
         #ref = row[0].replace("http://www.reactome.org/biopax/96/9612973#", "reactome:")
         if not ref in dico_entity_ref.keys():
@@ -728,13 +729,11 @@ for owl_file in sorted(filelist):
     aggregatedNetworkIDS = pd.DataFrame(columns=["Source", "Interaction", "Target"])
     i = 0
     for index, row in aggregatedNetwork.iterrows():
-        #entity1 = row[0]
-        #entity2 = row[2]
-        parts1 = row[0].split("#")
+        parts1 = row["Source"].split("#")
         entity1 = "reactome:" + parts1[-1]
-        parts2 = row[2].split("#")
+        parts2 = row["Target"].split("#")
         entity2 = "reactome:" + parts2[-1]
-        interaction = row[1]
+        interaction = row["Interaction"]
         entity1ID = dico_entity_ref[entity1]
         entity2ID = dico_entity_ref[entity2]
         aggregatedNetworkIDS.at[i, "Source"] = entity1ID
