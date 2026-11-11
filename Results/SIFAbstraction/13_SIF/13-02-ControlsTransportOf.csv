@@ -1,2 +1,14 @@
 Source,Interaction,Target
+http://www.reactome.org/biopax/96/1474244#ProteinReference240,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference17
+http://www.reactome.org/biopax/96/1474244#ProteinReference241,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference17
+http://www.reactome.org/biopax/96/1474244#ProteinReference84,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference253
+http://www.reactome.org/biopax/96/1474244#ProteinReference100,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference23
+http://www.reactome.org/biopax/96/1474244#ProteinReference83,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference253
+http://www.reactome.org/biopax/96/1474244#ProteinReference211,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference253
+http://www.reactome.org/biopax/96/1474244#ProteinReference255,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference253
+http://www.reactome.org/biopax/96/1474244#ProteinReference254,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference253
+http://www.reactome.org/biopax/96/1474244#ProteinReference239,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference17
+http://www.reactome.org/biopax/96/1474244#ProteinReference100,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference25
+http://www.reactome.org/biopax/96/1474244#ProteinReference240,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference253
 http://www.reactome.org/biopax/96/1474244#ProteinReference100,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference221
+http://www.reactome.org/biopax/96/1474244#ProteinReference85,abstraction:ControlsTransportOf,http://www.reactome.org/biopax/96/1474244#ProteinReference253

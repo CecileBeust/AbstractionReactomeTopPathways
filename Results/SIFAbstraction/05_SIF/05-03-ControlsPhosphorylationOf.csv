@@ -1,2 +1,5 @@
 Source,Interaction,Target
+http://www.reactome.org/biopax/96/4839726#ProteinReference205,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/4839726#ProteinReference204
+http://www.reactome.org/biopax/96/4839726#ProteinReference206,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/4839726#ProteinReference204
+http://www.reactome.org/biopax/96/4839726#ProteinReference202,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/4839726#ProteinReference204
 http://www.reactome.org/biopax/96/4839726#ProteinReference203,abstraction:ControlsPhosphorylationOf,http://www.reactome.org/biopax/96/4839726#ProteinReference202
